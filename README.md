@@ -28,9 +28,7 @@ Unlike a traditional debate judging system, MindProof does not determine who is 
 * Sentence Transformers
 * Scikit-learn
 * Transformers
-* HTML
-* CSS
-* JavaScript
+
 
 ## 🌍 AI and Society Impact
 
