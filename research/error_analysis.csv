@@ -1,0 +1,1001 @@
+topic,argument,WA,stance_WA,quality_prediction,quality_abs_error,stance_prediction,stance_correct
+we should abolish the olympic games,"the olympic games wer always intended for the ametuer athlete.now, professionals are allowed to compete.",0.025817145,1,0.7785630134515271,0.7527458684515271,1,True
+we should adopt libertarianism,"government rules and regulations are getting too restrictive on an individual's rights, as set out by the constitution so there needs to be a relaxation so people can take responsibility for their own lives",0.202601203,1,0.8904309264867724,0.6878297234867723,1,True
+we should ban factory farming,the problem is not production but consumption which leads the human being to create more quantity of elements of nature that are exhausted,0.052152655,1,0.7359681607248721,0.6838155057248722,1,True
+we should adopt atheism,"atheisim should be banned because the majority of people believe in religion,",0.100579276,-1,0.7763785998385617,0.6757993238385618,1,False
+we should prohibit women in combat,unfortunately we have a long way to come in terms of gender equality and there is a strong chance that men will be distracted by their female comrades on the battlefield,0.213740643,1,0.8623652198321119,0.6486245768321119,-1,False
+holocaust denial should be a criminal offence,holocaust denial is a crime should be reject,0.111895997,-1,0.7601318092075062,0.6482358122075063,1,False
+we should abolish the three-strikes laws,the three-strikes laws is followed by judges who knows the law and knowing that must be supported by us and our government.,0.103473501,-1,0.7514086621365471,0.6479351611365471,1,False
+we should prohibit school prayer,prayer in school is necessary in order to stop mass shootings.,0.088080667,-1,0.7350666285851936,0.6469859615851936,1,False
+we should adopt atheism,"if people want to believe in fairy stories, let them",0.0,-1,0.6453611443166609,0.6453611443166609,-1,True
+we should adopt libertarianism,"rules and laws are not restrictive enough as the levels of most crimes are rising and, so, we need a crackdown to stop the rise and this needs government intervention",0.188960254,-1,0.8329207734474644,0.6439605194474645,1,False
+we should prohibit women in combat,it is just a fact that in some ways men are better suited for combat. they are physically stronger and can compartmentalize emotions in intense situations as on the front lines.,0.182409958,1,0.8235947385139031,0.641184780513903,-1,False
+we should adopt atheism,all religions have a dark history of violence they try to hide.,0.088238878,1,0.7127944950429658,0.6245556170429658,1,True
+holocaust denial should be a criminal offence,people who has serious issues and has no humanity can denial holocaust and there is a people like them so for what reason should be not as a criminal offence and we can feel only feel sorry for such a people.,0.212367499,-1,0.8272259031138072,0.6148584041138072,-1,True
+holocaust denial should be a criminal offence,"most ""holocaust denial"" is about the figures of those that were murdered (specifically jewish people) has been mis-represented by parties who wish to use the incorrect figures for their own political gain.",0.313730709,-1,0.9242780824231858,0.6105473734231858,-1,True
+we should adopt atheism,not because every person is free to believe in a god or not to accept it in their hearts.,0.093415515,-1,0.6988263386917964,0.6054108236917964,-1,True
+we should adopt atheism,religion causes more harm and hatred than it helps,0.20983945,1,0.8085210933144354,0.5986816433144354,1,True
+we should ban private military companies,they should have the freedom to organize in whatever way they want.,0.107524356,-1,0.6953931596872491,0.5878688036872491,-1,True
+we should ban targeted killing,certain species are reproducing out of control and need to have their numbers reduced,0.223963594,-1,0.809736314491337,0.585772720491337,1,False
+we should prohibit women in combat,women are needed on the home front to help.,0.09622026,1,0.6787935276238555,0.5825732676238555,-1,False
+we should abolish the three-strikes laws,there needds to be clear legislation and deterrents in pace to ensure social responsibility,0.190901856,-1,0.7697897647944585,0.5788879087944585,1,False
+holocaust denial should be a criminal offence,history is what has been recalled and written of passed events. events could be manipulated and distorted. it's compulsory to believe everything especially those which didn't occurred in my presence,0.292476977,1,0.8629050485958126,0.5704280715958125,1,True
+we should abolish the three-strikes laws,we should not abolish the three-strikes laws because omeone who has committed three felonies is not likely to reform,0.125262372,-1,0.6929237227471621,0.5676613507471621,-1,True
+we should prohibit women in combat,women should be allowed in combat roles as they are not as tough as men in these roles.,0.237193382,-1,0.8020880965534305,0.5648947145534304,-1,True
+we should adopt libertarianism,we should because it keeps people making their own decisions without intervention for the most part.,0.188906551,1,0.7502686129500934,0.5613620619500934,1,True
+we should ban targeted killing,"to kill no matter what, god has not forgiven",0.0,1,0.5610471678841885,0.5610471678841885,1,True
+the use of public defenders should be mandatory,not all criminals have the right to have a defense,0.117857536,-1,0.6782424148245585,0.5603848788245585,-1,True
+the use of public defenders should be mandatory,it's not fair that people like oj simpson and others can use their money in order to avoid prison. everyone should be forced to use the same defense attorney's without money being able to buy the best one.,0.178815214,1,0.7365996959998953,0.5577844819998953,-1,False
+we should legalize cannabis,we must be careful when legalizing cannabis because society can distort its use,0.06511323,-1,0.621944521198041,0.556831291198041,1,False
+holocaust denial should be a criminal offence,holocaust denial allows people to question narratives promoted by specific groups that trigger feelings of guilt among other groups in order to allow certain policies against their best interests.,0.423966128,1,0.9772841901091123,0.5533180621091123,-1,False
+we should ban private military companies,"there is no argument against it, it is free choice",0.0,-1,0.5520095654414989,0.5520095654414989,-1,True
+we should ban private military companies,because they would be out of a job and unable to provide for family,0.083999295,-1,0.6318844563695908,0.5478851613695908,-1,True
+we should prohibit women in combat,in a all out war the lose of child bearing women would be catastrophic for society.,0.208037459,1,0.7559021555339457,0.5478646965339456,1,True
+social media brings more harm than good,"the is always a few bad apples, however, social media brings greater good by bring people and information together.",0.232870819,-1,0.7802616338136348,0.5473908148136348,1,False
+we should prohibit school prayer,prayer in school will let kids behave more properly,0.14095334,-1,0.6883257011946129,0.5473723611946129,1,False
+we should prohibit women in combat,there is a greater danger in combat because of the thought that they will be unable to fight and the men will be watching them to see what they are doing,0.166584792,1,0.7124021524853712,0.5458173604853712,-1,False
+we should ban private military companies,we must let the free market decide.,0.0,-1,0.5444647114409975,0.5444647114409975,-1,True
+holocaust denial should be a criminal offence,"holocaust denial can't be a criminal offence since it will place a heavy burden on law enforcement authorities, without increasing recourse.",0.328456583,-1,0.8666530965227173,0.5381965135227172,1,False
+we should ban targeted killing,we should eliminate selective murders because they cause bad,0.163482283,1,0.7011450269792892,0.5376627439792891,1,True
+we should adopt atheism,it would make it easier for people to get along,0.129862197,1,0.6643550528539596,0.5344928558539596,1,True
+we should prohibit women in combat,we should prohibit women in combat because they were created to perform women's responsibilities,0.229214802,1,0.7631404758859396,0.5339256738859396,1,True
+we should adopt atheism,atheism allows for a blank slate for beliefs,0.227447788,1,0.7605558876332691,0.5331080996332691,-1,False
+we should legalize cannabis,"to think that legalizing cannabis reduces profits to the traffic business is a candidate idea, and about its medicinal use, we still need to know what effects it would have on people's health in the long term.",0.277239261,-1,0.8101472006753124,0.5329079396753125,1,False
+we should prohibit women in combat,we shouldn't prohibit women in combat because is complementary in event,0.137549119,-1,0.6695513630164683,0.5320022440164683,-1,True
+holocaust denial should be a criminal offence,how can holocaust denial be illegal while the israeli government itself denies the armenian holocaust.,0.235677464,-1,0.7650858900660557,0.5294084260660556,1,False
+holocaust denial should be a criminal offence,holcaust denial make loss the social balance,0.214694902,1,0.7437558114048489,0.529060909404849,1,True
+we should prohibit school prayer,"we do not believe that by prayers in the mornings in each school we will make better people, what makes love better",0.15427277,1,0.6833041956655409,0.5290314256655408,1,True
+we should prohibit school prayer,the constitution protects the tight for children to pray in schools,0.16916657,-1,0.697622519501047,0.528455949501047,-1,True
+we should adopt atheism,atheism is counter to the teachings of the bible and should be banned,0.255547464,-1,0.7835965592864107,0.5280490952864108,1,False
+we should adopt atheism,this country was founded on the belief of god,0.140567226,-1,0.6665488709321543,0.5259816449321544,1,False
+holocaust denial should be a criminal offence,"holocaust denial is a misinformed thing to do, and it's very offensive.",0.256023808,1,0.7817196184202988,0.5256958104202988,1,True
+we should ban targeted killing,targeted killing is wrong and should be illegal,0.182668228,1,0.707634258986003,0.5249660309860029,1,True
+holocaust denial should be a criminal offence,if anyone denies there was a holocaust it should be a criminal offense because there is proof that that there was a holocaust. concentration camps were discovered near the end of world war ii.,0.321923312,1,0.8461279052115824,0.5242045932115824,1,True
+we should abolish the three-strikes laws,"we should continue to support the three-strikes law because one offense is a boo=boo, the 2nd they obviously din't learn, so throw the book at them for the 3 time around.",0.163896801,-1,0.6875777644600384,0.5236809634600383,1,False
+we should adopt atheism,"it is not a requirement of being a human to believe or worship a ""god"" and therefore atheism should be adopted.",0.263058211,1,0.7810220676076661,0.5179638566076661,1,True
+we should abolish the olympic games,makes athletes take more competitive and degrading attitudes with other competitors,0.28478533,1,0.8025254573213342,0.5177401273213342,1,True
+we should adopt atheism,believing in god andheaven gives people hope. it let's them believe there is a reward for their goodness on earth. if you adopt atheism and take this from them and the world will be a worse place.,0.244689796,-1,0.7624043288400164,0.5177145328400165,-1,True
+we should abolish the three-strikes laws,three-strikes laws criminals who can't be rehabilitated off the streets.,0.297727648,-1,0.8144561731060924,0.5167285251060925,1,False
+we should adopt atheism,we need religion to help us feel loved and wanted,0.21791639,-1,0.7336428247522793,0.5157264347522793,1,False
+holocaust denial should be a criminal offence,most individuals don't have access to the tools needed to distinguish between the lies told by holocaust deniers and the truth and so it is the government's duty to stop the lies from being told.,0.346555091,1,0.8619568636736931,0.515401772673693,1,True
+we should abolish the three-strikes laws,crimials shouldn't need three strikes before they pay for their crimes,0.128369476,1,0.6401719990147728,0.5118025230147728,-1,False
+we should prohibit women in combat,there are many jobs that women are better qualified than men in combat,0.243938244,-1,0.7554540499254079,0.5115158059254079,-1,True
+we should ban targeted killing,"how else would we take down specific individuals who pose enormous threats to our nation, as bin laden.",0.252892387,-1,0.7643484717495184,0.5114560847495184,1,False
+the use of public defenders should be mandatory,public defenders should not be mandatory as it unfair that they are paid for from the public purse. if committing a crime then the defendant should be made to pay for their own defense.,0.277492602,-1,0.7880254891748336,0.5105328871748336,-1,True
+we should prohibit women in combat,we should prohibit women in combat because they shouldn't be fighting that should be left for the men,0.234839039,1,0.7449425832701323,0.5101035442701323,-1,False
+we should adopt libertarianism,"should be adopted by families, from points of view in political philosophy",0.225174925,1,0.7351619774281671,0.5099870524281671,1,True
+we should adopt libertarianism,we don't need anymore political parties to divide our country.,0.169215662,-1,0.676542647441875,0.5073269854418749,1,False
+we should adopt atheism,people's belief is hard to break when it's rooted deep,0.155735753,-1,0.6621694434864196,0.5064336904864196,-1,True
+we should adopt libertarianism,everyone has the right to freedom of choice.,0.279835098,1,0.7844832585346344,0.5046481605346345,-1,False
+we should prohibit school prayer,no prayers in school under no circumstances its cause unnecessary distractions for teachers and students,0.295885189,1,0.8001108310196261,0.504225642019626,1,True
+we should ban targeted killing,it must be banned because in many cases murders are committed to the wrong people,0.217528786,1,0.7208806795934779,0.5033518935934779,1,True
+the use of public defenders should be mandatory,the use of public defenders should be mandatory for porr people,0.146288133,1,0.6494521790353719,0.5031640460353719,1,True
+holocaust denial should be a criminal offence,"the holocaust really isn't as bad as people say it is. if people don't listen, they need to be punished.",0.263601219,1,0.7665998409271012,0.5029986219271012,1,True
+the use of public defenders should be mandatory,"this if it must be mandatory, justice demands it, to be appointed free of charge defense counsel, as well as the right to legal or public defender or a combination of them",0.245801922,1,0.7483305251587473,0.5025286031587473,-1,False
+we should abolish the olympic games,they are too costly and noone is really interested anymore,0.165249425,1,0.6664473585604456,0.5011979335604455,1,True
+we should adopt atheism,atheism teaches there are no consequences to the actions people take.,0.275252678,-1,0.7762555548510384,0.5010028768510384,1,False
+we should adopt libertarianism,the rule of government should trump all,0.112820515,-1,0.6114799823629846,0.4986594673629846,1,False
+holocaust denial should be a criminal offence,those that deny that the holocaust happened a mad and making denial a criminal offence would be improper.,0.282862372,-1,0.7803796344365619,0.4975172624365619,1,False
+we should abolish the three-strikes laws,the three-strikes laws avoid getting prisons full for small offence.,0.21832026,-1,0.7154600787782834,0.49713981877828345,1,False
+we should adopt libertarianism,without controlling libertarianism it is very dangerous for society and its health,0.221310336,-1,0.7165691271774793,0.49525879117747934,1,False
+we should ban missionary work,it could lead to force people conversions,0.128369476,1,0.6228733874269188,0.49450391142691874,-1,False
+we should ban targeted killing,the civilian toll from drone strikes are substantially lower than journalists assert.,0.257949685,-1,0.7502417818403356,0.49229209684033565,1,False
+we should adopt atheism,would lead to a decrease in morals and ethics,0.300237522,-1,0.7920388976529805,0.49180137565298054,-1,True
+we should adopt atheism,less discrimination and hate crimes based on religious believes,0.353976886,1,0.8448306321921081,0.4908537461921081,1,True
+we should ban private military companies,not because security and compliance with the laws in our localities depend on them.,0.195071193,-1,0.6847531959642237,0.4896820029642237,-1,True
+we should adopt atheism,"too often, lawmakers make decisions based on religious ideals. what happened to the separation of church and state?",0.231186199,1,0.7201423105040146,0.4889561115040145,1,True
+we should adopt atheism,freedom of religion is a founding principle of america and vital to a free society.,0.381835306,-1,0.8701755262379491,0.48834022023794915,-1,True
+we should adopt atheism,adopting atheism will prevent non-religious people from being offended.,0.302612117,1,0.7907795205534431,0.4881674035534431,1,True
+we should adopt atheism,if people want to believe in fairy tales let them,0.154816811,-1,0.6412614135006025,0.4864446025006025,-1,True
+holocaust denial should be a criminal offence,holocaust denial should not be a criminal offence because as long as they protest or debating without hurting they should not be criminalize,0.342805092,-1,0.8263294689134296,0.48352437691342964,-1,True
+we should abolish the olympic games,the olympic games leave the hosted cities in filth.,0.146208874,1,0.6285098249466402,0.4823009509466402,1,True
+we should ban private military companies,the do not need banned just regulated better,0.093986541,-1,0.5762008814109676,0.48221434041096756,-1,True
+the use of public defenders should be mandatory,i think that the use of public defenders should be mandatory if is necesary,0.071603862,1,0.5526155899968754,0.4810117279968754,1,True
+we should prohibit school prayer,"schools must teach that we can communicate with a superior being, otherwise, the number of people who are not affected by the suffering of others will continue to grow.",0.300424848,-1,0.7806609344710658,0.48023608647106575,-1,True
+we should prohibit school prayer,we have the freedom of religion in this country and it is important to students to have this background.,0.28152703,-1,0.7611494754688306,0.4796224454688306,1,False
+the use of public defenders should be mandatory,public defenders won't work very hard because they will get paid the same regardless.,0.188559395,-1,0.6681616605557208,0.47960226555572083,1,False
+we should legalize cannabis,the beer and pharmaceutical companies would not like it,0.089717121,-1,0.5684596870419378,0.4787425660419378,-1,True
+we should ban targeted killing,targeted killing should be banned because we should not be killing animals.,0.258380445,1,0.7359230337926501,0.4775425887926501,1,True
+we should prohibit school prayer,praying in school is important to instill fear and integrity among students,0.30852435,-1,0.7856319585576008,0.4771076085576008,-1,True
+holocaust denial should be a criminal offence,"in today crazy world in which we all live, there is so many derogating stuff. freedom of speech must be protected by all means,right? yes. so, when somebody deny holocaust is that free speech? or not?",0.161418383,-1,0.6380531204384798,0.47663473743847984,-1,True
+holocaust denial should be a criminal offence,holocaust denial should not be a criminal offense since it's an uncommon phenomenon.,0.378166582,-1,0.8522075325336341,0.47404095053363415,-1,True
+we should ban factory farming,factory farming make cruelty to animals and there is no proper caring for it how should be.,0.26692592,1,0.7405679838375503,0.4736420638375503,1,True
+we should abolish the three-strikes laws,three strikes laws increase recidivism because people in jail for long periods must join a gang to survive and have a good quality of life.,0.344826716,1,0.8173971447184866,0.4725704287184866,1,True
+we should adopt atheism,people are free to believe in whatever they wish - as long as it doesn't infringe on others.,0.330093147,-1,0.80244276114998,0.47234961414998006,-1,True
+we should ban missionary work,missionary work is a good idea because their are undeveloped areas that have not had an idol to base hopes and fears upon.,0.262002316,-1,0.7328397255682314,0.4708374095682314,-1,True
+we should ban targeted killing,"targeted killing means governments and forces can remove people who are a threat without a war, which would mean the deaths of many of forces personnel and innocent citizens.",0.436088171,-1,0.905729587851977,0.46964141685197697,1,False
+we should legalize cannabis,studies show that drivers under the influence of marijuana tend to be more careful and take fewer risks than drunk drivers,0.370147376,1,0.8393841924926614,0.4692368164926614,1,True
+we should ban algorithmic trading,companies should have the freedom to offer merchandize any way they please.,0.341026823,-1,0.8101931498646049,0.4691663268646049,-1,True
+we should abolish the three-strikes laws,the simple reason for abolish the three-strikes laws is because is harmful for felony accused prisoners and is doubtful in reality and fairness.,0.320589688,1,0.7860345540063971,0.4654448660063971,1,True
+we should abolish the three-strikes laws,three strikes laws abolish political will the creation and funding of rehabilitation programs by pushing everyone into the jail system immediately.,0.390036491,1,0.8544275183739398,0.46439102737393984,1,True
+we should legalize cannabis,cannabis does more good than harm and therefore should be freely available.,0.233983682,1,0.698024468871195,0.464040786871195,1,True
+we should adopt libertarianism,too much privatisation can lead to greed taking precedence.,0.24379005,-1,0.706937045530271,0.46314699553027106,1,False
+we should ban targeted killing,some species have reproduced out of control and need to have their numbers brought down to a manageable level,0.356744344,-1,0.8197962253786463,0.4630518813786463,-1,True
+we should prohibit women in combat,most women don't even want to be in combat and most cannot do it,0.212639924,1,0.6753379219639694,0.4626979979639694,-1,False
+the use of public defenders should be mandatory,"the only way to get political reform in the public defender system (raising wages, decreasing case loads etc.) is by making it to increase political will by increasing the number of people across classes getting affected.",0.370687392,1,0.8325945368703607,0.46190714487036066,1,True
+holocaust denial should be a criminal offence,"free speech, even hateful speech, is the cornerstone of any democracy and could lead to groupthink instead of a free flow of independent thought",0.352067769,-1,0.8125475874077923,0.46047981840779234,-1,True
+holocaust denial should be a criminal offence,too many people have suffered from this atrocity. denying this,0.272555834,1,0.7326075195087127,0.4600516855087127,1,True
+we should abolish the olympic games,the motivation that generates an olympic medal in the athletes is such that the olympic games should be every two years,0.302874392,-1,0.7621234878904013,0.4592490958904013,1,False
+holocaust denial should be a criminal offence,"if you want to live in a world where free speech is highly regulated than yes, you can make it a criminal offense.",0.282716996,-1,0.7413813364185071,0.4586643404185071,-1,True
+we should legalize cannabis,anti-marijuana policies have failed and the majority of americans support legalizing marijuana,0.305683194,1,0.7627990557841229,0.4571158617841229,1,True
+we should ban algorithmic trading,"in the new era, good ideas do not know limits, which makes it impossible to prohibit algorithm trading",0.25542652,-1,0.7125030935739094,0.4570765735739094,1,False
+we should ban factory farming,"well, if you ban gmos, there will be many empty fields where gmos were once grown, since they account for most of the total crops grown in a year. so, i do not think green space is a problem.",0.287323591,-1,0.7439101941055298,0.45658660310552984,-1,True
+holocaust denial should be a criminal offence,holocaust denial is a criminal offense in many countries. the u.s. should follow suit.,0.374035053,1,0.8274736566939443,0.45343860369394434,1,True
+we should legalize cannabis,"rather than making smoking marijuana legal, make drinking booze illegal.",0.188297979,-1,0.6416837308350613,0.45338575183506125,1,False
+we should prohibit school prayer,"with all the school shooting happening these day, school is the exact place we need to have prayers allowed!",0.186466495,-1,0.6393088983927564,0.4528424033927564,-1,True
+we should adopt libertarianism,it is too leninet and doesn't determine someones side.,0.117711553,-1,0.569579026531142,0.451867473531142,1,False
+the use of public defenders should be mandatory,"a person being accused of a crime deserves the right to search out anyone they desire to defend them and shouldn't be forced to receive the same, possibly low level of talent as everyone else.",0.406987333,-1,0.8584005417458043,0.45141320874580426,-1,True
+we should ban missionary work,"before you ban missionary work ban public schooling because it's the same thing, only it occurs on a much larger scale.",0.23362605,-1,0.6834268123979086,0.44980076239790856,1,False
+we should adopt libertarianism,only by working together can we live in a better society for everyone and not just the few.,0.257252679,-1,0.7069605808489589,0.44970790184895887,-1,True
+we should prohibit women in combat,i cannot support such a thing it is wrong,0.163335802,1,0.608989299370696,0.44565349737069604,-1,False
+we should ban targeted killing,targeted killing using drones has become part of the american way of war.,0.315508905,-1,0.7606792588020745,0.44517035380207454,1,False
+we should adopt libertarianism,we should adopt libertarianism because tle capitalm is beig envelope,0.112714121,1,0.555733249622701,0.443019128622701,1,True
+we should ban targeted killing,we should not ban targeted killing because it helps to get rid of the bad guys,0.287041014,-1,0.7293738608979116,0.4423328468979116,-1,True
+we should ban missionary work,missionaries could provide some amusement to intelligent people who see them for what they are,0.23983858,-1,0.681514119809471,0.44167553980947094,-1,True
+we should adopt libertarianism,people have the right to support whichever party they wish.,0.284698863,1,0.725729586003042,0.441030723003042,-1,False
+we should adopt libertarianism,people should have political freedom and individual judgement,0.321597239,1,0.7622194007289044,0.4406221617289044,1,True
+social media brings more harm than good,social media has a good source of information for people who's looking for job,0.332065951,-1,0.7726345209158945,0.44056856991589444,1,False
+we should ban targeted killing,if we see it on the other hand selective killings of defenseless people i see it as bad because we are talking about selective but for a person who wins his death.,0.252493367,1,0.6927354107755253,0.4402420437755252,1,True
+holocaust denial should be a criminal offence,denying something proven to be true is ridiculous.,0.320984326,1,0.76105084010681,0.44006651410681,1,True
+we should abolish the olympic games,the olympic games are a tradition that should be continued.,0.316121351,-1,0.7547786998019631,0.4386573488019631,1,False
+we should ban targeted killing,we should not ban targeted killing because some people may not be caught for something they did and need to be given the proper punishment.,0.36994871,-1,0.8084797536663082,0.4385310436663082,-1,True
+holocaust denial should be a criminal offence,people who deny the holocaust need rehabilitating because of underlying problems,0.337634104,1,0.7753459653610321,0.4377118613610321,1,True
+we should abolish the three-strikes laws,three-strikes punishes repeat offenders,0.291342078,-1,0.7283304663661155,0.43698838836611553,1,False
+we should prohibit women in combat,we shouldn't prohibit women in combat in last time women is bes prepared,0.220580964,-1,0.6570347502555831,0.4364537862555831,-1,True
+we should legalize cannabis,"as a party to the international treaties, the united states has agreed to limit the use of marijuana only to medical and scientific purposes",0.30922717,-1,0.7445473493703024,0.43532017937030243,1,False
+we should ban targeted killing,killing is wrong. two wrongs do not make a right. the object of targeted killing needs to be apprehended and offered a fair trial.,0.387475426,1,0.8221198931606257,0.4346444671606257,1,True
+we should ban targeted killing,our government should not interfere with outer countries.,0.210945498,1,0.6452422704795485,0.4342967724795485,-1,False
+we should adopt atheism,would eliminate religious persecute and stop some hate crimes.,0.304217728,1,0.7365755174067242,0.4323577894067242,-1,False
+holocaust denial should be a criminal offence,"here's a deal, you forbid me from questioning the holocaust, and i'll get to forbid you from thinking whatever i choose.",0.241840712,-1,0.6740835801381029,0.43224286813810286,-1,True
+holocaust denial should be a criminal offence,it should be a criminal offence because it did happen and it wasn't right,0.27164387,1,0.7028216425728818,0.4311777725728818,1,True
+we should ban algorithmic trading,algorithmic trading does not inherently do anything to the financial markets that isn't already being done by unscrupulous traders and companies.,0.39786693,-1,0.8289525619469831,0.43108563194698307,-1,True
+we should adopt atheism,there is no proof that any god exists so you are providing false hope to every religion. we should adopt atheism until proven otherwise.,0.335337751,1,0.7653461201556304,0.4300083691556304,1,True
+holocaust denial should be a criminal offence,anyone that denies the holocaust should be charged with a criminal offense because it is ludicrous for someone to thing it never happened.,0.433041001,1,0.8616098966053937,0.4285688956053937,1,True
+we should abolish the three-strikes laws,"there aren't enough jobs for everyone, so we need three strikes laws to keep poor people in line when they can't find jobs, otherwise they'll commit even more crimes",0.442668732,-1,0.8712197383751771,0.42855100637517707,-1,True
+we should adopt atheism,"yes, as long as the person agrees and is not required",0.179580917,1,0.6080895340085667,0.4285086170085667,1,True
+we should adopt libertarianism,we should adopt libertarianism because our government is too large,0.18413456,1,0.6121937767767192,0.42805921677671915,1,True
+we should abolish the olympic games,the olympic games allow countries with bad ideals to compete on the world stage,0.333889055,1,0.7614455515635652,0.4275564965635652,1,True
+we should prohibit school prayer,give the children chance to learn about how ridiculous religion is,0.265341877,1,0.6922545354627976,0.4269126584627976,-1,False
+we should prohibit women in combat,women are less capable to stay focus in such a situations.,0.324933122,1,0.749281897043709,0.42434877504370894,-1,False
+holocaust denial should be a criminal offence,holocaust deniers seek use their false opinions about the events of world war two to propogate a damaging and dangerous wave of anti-semitism.,0.467177986,1,0.8909862481728937,0.42380826217289375,1,True
+holocaust denial should be a criminal offence,criminalizing holocaust denial significantly hurts the recruitment of nazi groups by giving new members a meaningful deterrent.,0.479749822,1,0.9031303712256317,0.4233805492256317,1,True
+we should prohibit women in combat,women being the fairer sex arent as brave as men they might have children at home and their natural instinct would be to protect them,0.381808859,1,0.8018234843330437,0.42001462533304373,-1,False
+we should adopt atheism,it is our given right to live our life as we wish including religion and atheism should be adopted,0.334013135,1,0.7537900301452628,0.4197768951452628,1,True
+we should ban algorithmic trading,we shouldnt ban algorithmic trading as machines havent got emotions and dont cloud their judgements,0.27912872,-1,0.6983433255250673,0.4192146055250673,-1,True
+we should ban algorithmic trading,we should ban algorithmic trading because there is going to come a time that order can not be filled causing a lot of anguish.,0.292165139,1,0.7109882470873068,0.4188231080873068,-1,False
+we should prohibit women in combat,apparently men think they can't resist the urge to rape and sexually harass women if they are sent into combat with them.,0.304636957,1,0.7234147692508691,0.41877781225086913,-1,False
+we should adopt atheism,we should adopt atheism because people have a right to believe in what they want,0.356799464,1,0.7744199464452038,0.41762048244520383,1,True
+we should ban missionary work,missionary should be banned because it is disruptive and can lead to political backlash in developing countries. no one should be trying to convert people in countries that aren't open to it.,0.370803259,1,0.7882779364336137,0.41747467743361366,1,True
+holocaust denial should be a criminal offence,this subject should not be discussed and is a shame is not jet implemented in every country and accepted with every government in the world.,0.303394368,1,0.7208082048879255,0.4174138368879255,-1,False
+we should ban targeted killing,some individuals who have been confirmed as the culprit of heinous crimes can in some instances when apprehending them conventionally is not possible,0.331574403,-1,0.748930936850716,0.41735653385071597,-1,True
+we should prohibit school prayer,stopping school; prayer would go against those students who do pray in school.,0.319331137,-1,0.7365847837825676,0.41725364678256766,-1,True
+we should prohibit women in combat,"no problem whatsoever to have women in combat, if men can, why women shouldn't?",0.241941708,-1,0.6572171936665928,0.4152754856665928,-1,True
+we should ban targeted killing,"targeted killings in certain areas keeps animal populations, such as deer, from becoming too large to be a danger to other animals and humans living near them.",0.499354738,-1,0.9145427484219613,0.41518801042196124,1,False
+we should abolish the olympic games,while the olympics were established to have countries meet and play together rather than fight they have stopped being only games. now it is just a medal count rather than an athletes doing best for the sport.,0.402594398,1,0.8174115391224946,0.4148171411224946,1,True
+we should prohibit women in combat,"although many are capable, they should carry out other war roles such as planning techniques or nursing",0.322870114,1,0.7376593922111788,0.41478927821117884,-1,False
+we should prohibit women in combat,women might be sexually abused since men in combat barely see any women during their deployment,0.272030963,1,0.6867092419381012,0.4146782789381012,-1,False
+we should ban algorithmic trading,"algorithmic trading is there, is everywhere is our future",0.21872674,-1,0.6322187963554229,0.41349205635542285,1,False
+we should prohibit women in combat,it is everybody's right to go into combat even women,0.252200439,-1,0.6645393115758218,0.4123388725758218,-1,True
+holocaust denial should be a criminal offence,anyone denying that the holocaust should be punished by a criminal offense as these that lost their lives should never be forgotten or degraded in any fashion.,0.467127985,1,0.8767114362813275,0.4095834512813275,1,True
+we should ban private military companies,too many innocent people get hurt by would be rambos,0.238311758,1,0.647351523126383,0.40903976512638296,1,True
+we should prohibit school prayer,"school prayer is too much of a contentious issue in schools. if there are christian, buddhist and muslim children, then which prayers would they say?",0.339938032,1,0.7471846699148881,0.4072466379148881,-1,False
+we should ban targeted killing,i think that we shouldn't ban targeted killing for our security,0.092024268,-1,0.49909725451850984,0.4070729865185098,-1,True
+we should adopt libertarianism,can lead to the right to do wrong. there are many pragmatic concerns,0.318272564,-1,0.7250924057599846,0.4068198417599846,-1,True
+we should abolish the three-strikes laws,"we are all human-beings and thus, capable of causing torts to people without willing it. three-strikes laws is the door to spare us from the harsh of the criminal justice and give us another try to behave well.",0.37261304,-1,0.7789637515872886,0.4063507115872886,1,False
+we should adopt libertarianism,we should not adopt this because people need to be able to have their own thoughts.,0.211102363,-1,0.6167528069834907,0.4056504439834907,-1,True
+we should adopt libertarianism,people who rely on government help would need to look for help elsewhere for example charities,0.357680391,-1,0.7627416967227714,0.4050613057227714,-1,True
+we should ban private military companies,what are they hurting? could be useful in a war.,0.163412536,-1,0.5684509356179595,0.40503839961795945,-1,True
+we should legalize cannabis,we should legalize cannabis fo r body human,0.205536471,1,0.6104195859004564,0.4048831149004564,1,True
+we should adopt libertarianism,people should have freedom of choice,0.333792207,1,0.7380881680892918,0.4042959610892918,-1,False
+social media brings more harm than good,"social media gives a voice to all those who are able to access it, allowing a 'leveling of the playing field' when it comes to being heard, activism etc. for better or worse.",0.507791512,-1,0.910983277298891,0.403191765298891,1,False
+we should ban private military companies,they provide useful additional support to armies,1.0,-1,0.5976390887419305,0.4023609112580695,-1,True
+we should prohibit women in combat,we should not prohibit women in combat because if they want to do mens jobs they should be able to do all of them,0.320817894,-1,0.722423304492225,0.40160541049222503,-1,True
+we should abolish the three-strikes laws,three strikes laws disincentive police officers from committing frivolous arrests since those they arrest on the third time will burden the system for much longer.,0.439085391,1,0.8400627729948641,0.4009773819948641,1,True
+the use of public defenders should be mandatory,the mandatory use of public defenders should not be mandatory for those who do not want it,0.228297141,-1,0.6292156488895164,0.40091850788951644,-1,True
+we should ban algorithmic trading,algorithmic trading makes successful trading less possible for those who cannot employ it.,0.379463739,1,0.7799230098799325,0.40045927087993244,-1,False
+we should legalize cannabis,"you can legalize marijuana but not allow its use around children for smoke, unlike drink, goes everywhere.",0.217611484,1,0.6161230439139038,0.39851155991390386,-1,False
+we should legalize cannabis,no drug is safe and all must be illegal,0.20624328,-1,0.6045570666775233,0.39831378667752326,-1,True
+we should ban algorithmic trading,algorithmic trading makes it easy for the technologically advanced to get the best stocks before those who need to do it for themselves.,0.382200443,-1,0.780214909743834,0.398014466743834,-1,True
+we should ban algorithmic trading,in this way we avoid so many scams to new people in this sector and good investors,0.318603233,1,0.7152680990574094,0.3966648660574094,1,True
+the use of public defenders should be mandatory,"public defense is given by its obligation to assist legally to the person prosecuted criminally, with total orientation to the interests of the client and ensuring the provision of quality service",0.428139544,1,0.8247454249004996,0.39660588090049964,1,True
+we should abolish the three-strikes laws,the three strikes law is barbaric and not applied fairly and should be banned. a persons life should not hang in the balance f=because they have erred three times. people change over time.,0.39682635,1,0.7931655074025524,0.39633915740255243,1,True
+we should ban targeted killing,selective killings in one way or another venefician society because if social phenomena are killed the quality of life is improved,0.378951496,-1,0.775050428589774,0.396098932589774,1,False
+we should prohibit school prayer,school prayer helps to ground everyone as one for a peace,0.300396414,-1,0.6964824897258487,0.3960860757258487,-1,True
+the use of public defenders should be mandatory,public defenders don?? always work in the interest of the individual they serve,0.961545827,-1,0.5659455220508964,0.3956003049491036,1,False
+we should prohibit school prayer,schools are for education not religion,1.0,1,0.6048267143790461,0.3951732856209539,-1,False
+social media brings more harm than good,"social media sites have positive associations for school-age children, so they will appreciate its use in schools",0.388490333,-1,0.7831461678757449,0.39465583487574485,1,False
+we should ban missionary work,the missionary work make the people confuses,0.188395435,1,0.58281337320223,0.39441793820223003,1,True
+we should adopt libertarianism,we should not adopt this because people will start marrying doorknobs and identifying as cats and society would fall apart.,0.300426036,-1,0.6927261675624464,0.3923001315624464,-1,True
+we should prohibit women in combat,women are faced with discrimination and incidents of assault without retribution via the government court system.,0.486282902,1,0.878435931209646,0.392153029209646,-1,False
+we should ban targeted killing,i think that we should ban targeted killing because is safaty and secure,0.094198846,1,0.4859859587021296,0.39178711270212957,1,True
+we should legalize cannabis,this should be legal as it is no worse than alcohol.,1.0,1,0.6082236271763475,0.3917763728236525,1,True
+we should prohibit women in combat,women in combat can cause distractions.,0.369823654,1,0.7614468016359639,0.3916231476359639,-1,False
+we should adopt atheism,we should adopt atheism because it may do people good to follow certain beliefs,0.394195209,1,0.7856231475710574,0.39142793857105745,1,True
+we should ban algorithmic trading,if the market cannot support the ammount of investments then it should be spread out. this keeps the market from soaring one day and crashing the next,0.352068022,1,0.7434772597970506,0.3914092377970506,-1,False
+we should adopt libertarianism,libertarianism represents the breaking of established laws and norms. adopting libertarianism would undoubtedly lead to a moral and economic debacle because it has no solid foundation,0.487734863,-1,0.8791358302914721,0.3914009672914721,1,False
+we should ban targeted killing,whatever include keeping our countries safe and secure should never be an agenda.,0.397997731,-1,0.7892523048145503,0.3912545738145503,-1,True
+we should ban algorithmic trading,"having automatic trading, so called algorithmic trading is out of mind and hurting our economy rapidly.",0.361563695,1,0.7527208582133543,0.3911571632133543,1,True
+holocaust denial should be a criminal offence,"it is appalling that there are some people who publicly deny that the holocaust happened, these people subject to criminal prosecution to deter others.",0.428197708,1,0.8191892055910234,0.39099149759102336,-1,False
+we should abolish the three-strikes laws,"three strikes laws increase sentences, allowing prosecutors and police to get confessions and testimony from low level offenders.",0.472660572,-1,0.8634092928827437,0.3907487208827437,1,False
+we should prohibit women in combat,"they don't belong in the battlefield, they belong at home with the children",0.200148704,1,0.5899918049751454,0.38984310097514535,1,True
+we should ban factory farming,it is the most efficient way to produce food,1.0,-1,0.6104331250956276,0.38956687490437236,-1,True
+we should adopt atheism,if we all we atheists the world wouldn't be subjected to such violence that we often see in the name of religion.,0.260796939,1,0.6498095127833177,0.38901257378331766,1,True
+we should ban algorithmic trading,algorithmic trading will always have a fear of a flaw caused by a computer virus to make decisions in order to sway decisions,0.408116902,1,0.7971153409319335,0.3889984389319335,-1,False
+we should adopt libertarianism,"liberatarianism or libtard for short are people who take part to destroy a country. they want open borders, they want to replace majority white christian lands with brown muslim people. this is dangerous.",0.432482397,-1,0.8212822527701277,0.38879985577012766,1,False
+we should adopt atheism,we should not adopt atheism because not one has scientifically proven there is no god.,0.279024092,-1,0.6677216545632771,0.38869756256327714,-1,True
+social media brings more harm than good,"spending time with friends and checking their pictures and their kids pictures and staying connected with them. getting latest games, movies and previous on social media as well.",0.390479524,-1,0.778290963751401,0.38781143975140103,1,False
+we should legalize cannabis,"if you could find a way to smoke it without the smoke reaching any other person's lungs i'd say legalize marijuana, but there's no way to guarantee that.",0.286950305,-1,0.6746883063474429,0.3877380013474429,-1,True
+we should ban algorithmic trading,we shouldn't ban algorithmic trading for envelope of electronics computer,0.289282683,-1,0.6769729603828925,0.38769027738289247,-1,True
+we should ban private military companies,private military companies do not all follow the rules of the country,1.0,1,0.6132574073434542,0.38674259265654576,-1,False
+we should abolish the olympic games,they are not healthy competitions and the resources used could be destined to other more important causes,0.388598006,1,0.7740735304471534,0.38547552444715344,1,True
+we should ban algorithmic trading,in my opinion should not prohibit algorithmic trading because it is the entry of automation of the orders of purchase and sale,0.383283965,-1,0.7685552055140561,0.3852712405140561,-1,True
+we should prohibit women in combat,could play other roles such as nursing and planning techniques,0.372488946,1,0.7568924253207766,0.3844034793207766,-1,False
+holocaust denial should be a criminal offence,the holocaust was the worse nightmare in the world.,0.336760853,1,0.7208278002804837,0.38406694728048363,1,True
+we should adopt atheism,it would provide everybody with freedom without worrying about the consequences in the future,0.372452109,1,0.7562428489545633,0.3837907399545633,1,True
+we should abolish the three-strikes laws,three strikes law helps reduce over crowding on prisons,0.40463428,-1,0.7882701274766418,0.3836358474766418,1,False
+we should prohibit women in combat,this may sound old fashioned but men should be the protectors,0.244689796,1,0.6277448859994488,0.3830550899994488,1,True
+we should abolish the olympic games,the olympic games are a useless gathering of athletes that should compete somewhere else,0.356330977,1,0.7384630526510163,0.3821320756510163,1,True
+social media brings more harm than good,social media addiction can be harmful to a persons health due to all the toxicity.,0.519377646,1,0.9014878654347108,0.3821102194347108,1,True
+we should abolish the olympic games,people need the olympic games in order to fund athletes who would otherwise have to rely on a regular job.,0.421877797,-1,0.8029625357855006,0.3810847387855006,-1,True
+we should ban algorithmic trading,we should accept algorithmic trading because it kills the impact of your emotions getting in the way,0.369467177,-1,0.7504830839996879,0.3810159069996879,1,False
+we should abolish the olympic games,the olympics are a great way for countries to get together when normally hostility would keep them apart. for example north and south korea joined teams at the 2018 olympics.,0.428053277,-1,0.8086905448721395,0.38063726787213953,-1,True
+we should ban algorithmic trading,algorithmic trading gives an unfair advantage it is able to make trades much faster then a human giving an unfair advantage,0.444041533,1,0.8243320140481023,0.3802904810481023,1,True
+we should adopt atheism,by not being tethered to a belief in god it really leads to someone to examine why they believe what they believe and not just someone's interpretation,0.42202251,1,0.8019256914916542,0.37990318149165414,1,True
+holocaust denial should be a criminal offence,this is a cruel offence to victims and their families,0.317478983,1,0.6968907179076096,0.3794117349076096,1,True
+we should prohibit women in combat,if women are in the military they should be expected to perform equally with their male comrades.,0.425760758,-1,0.8049212806879923,0.3791605226879923,-1,True
+holocaust denial should be a criminal offence,"holocaust denial, generally, does not deny that the event happened, just that the official facts and figures, specifically related to jewish deaths is incorrect.",0.533379376,-1,0.9123524516533569,0.3789730756533569,1,False
+we should prohibit women in combat,we should prohibit women in combat because it is traditional for men to be in combat,0.365739087,1,0.7445972491216138,0.37885816212161383,1,True
+we should adopt libertarianism,"if an individual has the full right to own and control themselves, this means that they have the full right to transfer that ownership to others. this risks voluntary enslavement, which is wrong.",0.438339912,-1,0.8166028514998689,0.3782629394998689,-1,True
+we should abolish the olympic games,"the olympics have provided so many amazing memories and bring about such pride in your country, i couldn't imagine a world without them.",0.442862677,-1,0.820691329485393,0.37782865248539305,1,False
+holocaust denial should be a criminal offence,holocaust denial hurt s the jewish people.,0.416531185,1,0.7943254485243583,0.37779426352435824,1,True
+the use of public defenders should be mandatory,the state shouldn't have to pay for legal services for millionaire.,1.0,-1,0.6224147166954264,0.37758528330457364,-1,True
+we should prohibit school prayer,school pray should beas it encourages discipline in schools,0.317641442,-1,0.6951576961028894,0.37751625410288936,-1,True
+we should abolish the olympic games,"the olympics were a great idea back in the day before sports were televised every night. now it is just overkill, and isn't looked at as important as actual sports leagues like the nfl, nhl, and mlb.",0.468463694,1,0.8453591442117072,0.37689545021170723,1,True
+holocaust denial should be a criminal offence,denying such an important part of history is a slap in the face to the jewish race.,0.438676506,1,0.8153700165888568,0.37669351058885675,1,True
+we should ban private military companies,we should ban private military companies for defense of our countries,0.252912344,1,0.6281774043955604,0.37526506039556035,-1,False
+social media brings more harm than good,"social media brings greater harm as it in made up of nothing but naysayers and back stabbers, thus bring down overall moral of the people.",0.482272388,1,0.8568425144050519,0.3745701264050519,1,True
+we should prohibit women in combat,we should prohibit women in combat because a woman is not built to carry all the require heavy equipment.,0.405875746,1,0.7802968281647604,0.37442108216476044,1,True
+holocaust denial should be a criminal offence,people who are here now werent around back then so they dont really know,0.218419036,-1,0.5927750896386621,0.3743560536386621,1,False
+we should prohibit women in combat,women shouldn?? be allowed to fight because it isn?? ladylike.,0.071603862,1,0.44559469805326707,0.37399083605326705,-1,False
+we should ban algorithmic trading,alogorithmic trading would be good if an investor wants a challenge.,0.350319509,-1,0.7235634829354392,0.3732439739354392,-1,True
+we should adopt libertarianism,we need more government involvement to help the poor and sick,0.312266816,-1,0.6838972486227528,0.3716304326227528,1,False
+we should abolish the olympic games,olympic games dont give everyone a chance to compete at a high level,0.373858143,1,0.7453246327588604,0.37146648975886043,1,True
+we should legalize cannabis,cannabis is a gateway to harder drugs so should not be legalized,1.0,-1,0.6292151216777884,0.37078487832221163,-1,True
+we should prohibit school prayer,school prayer is beneficial as it means both in so little expressed or written,0.388298561,-1,0.758783770567088,0.370485209567088,1,False
+we should ban private military companies,private military companies are a useful tool.,0.290370016,-1,0.6607778701971567,0.3704078541971567,-1,True
+the use of public defenders should be mandatory,people should have the choice of who represtents them in court.,0.387764331,-1,0.7578239561243943,0.37005962512439433,-1,True
+we should legalize cannabis,cannabis is know to lead to other substance abuse as well as incurring its own addicted by people.,0.380762875,-1,0.7499252818432562,0.36916240684325624,1,False
+holocaust denial should be a criminal offence,criminalizing holocaust denial makes it so that even people who are deniers are deterred from spreading their views to others for fear of punishment.,0.541674652,1,0.9101094853198795,0.3684348333198795,1,True
+we should legalize cannabis,will lead to an increase in impaired drivers,0.349525873,-1,0.7170815027190692,0.36755562971906924,1,False
+holocaust denial should be a criminal offence,holocaust denial should be a criminal offence because it happened and people should realize that millions of people were killed for no need,0.49168261,1,0.8591380515178384,0.3674554415178384,1,True
+we should prohibit women in combat,only men are natural fighters therefore we should prohibit women in combat.,0.394021076,1,0.761027664039056,0.36700658803905595,1,True
+we should adopt atheism,a person should be able to pray to whatever form of god they want. adopting atheism would just out religion underground not stop it.,0.430934517,-1,0.7978617212054222,0.3669272042054222,-1,True
+we should adopt atheism,if you believe in nothing then that is what you will get out of life.,0.253715311,-1,0.6202323441918617,0.3665170331918617,-1,True
+we should ban factory farming,we should ban factory farming because the money should be spent on medical things instead,0.272333421,1,0.6381094495465274,0.36577602854652735,1,True
+we should ban targeted killing,this can be an effective tactic for neutralizing a threat.,0.364428176,-1,0.7295720259200961,0.3651438499200961,-1,True
+social media brings more harm than good,it is a wonderful way for me to keep in contact with family and long time friends. i love the pictures.,0.424346498,-1,0.7881931150455095,0.36384661704550947,-1,True
+we should adopt atheism,there is no scientific or measurable proof that their is a higher power,0.34715736,1,0.7108618806136846,0.3637045206136846,1,True
+we should prohibit women in combat,women in combat should not be tolerated for there are far too many dangers.,0.464786775,1,0.8283341217135886,0.36354734671358857,-1,False
+we should ban targeted killing,targeted killing is used frequently as extrajudicial punishment,0.352055088,1,0.715504947873538,0.363449859873538,1,True
+we should adopt libertarianism,libertarianism should be adopted as it brings a new life to politics that are more for the people,0.442890569,1,0.8061265596144588,0.36323599061445877,1,True
+social media brings more harm than good,i think that social media brings more harm than good if not used not very well,0.245554739,1,0.608519528125925,0.362964789125925,1,True
+we should legalize cannabis,"we must legalize cannabis in order to end smuggling, but put an established consumption so that people do not lose their sanity.",1.0,1,0.6370657480197632,0.36293425198023677,1,True
+holocaust denial should be a criminal offence,there is so much evidence that anyone denying the facts is mentally impaired therefore exempt from criminal prosecution for this offence.,0.440507298,-1,0.8020933432926605,0.3615860452926605,1,False
+we should abolish the three-strikes laws,the three-strikes laws is am important part of lessening crimes.,0.408181099,-1,0.7693363238911977,0.36115522489119767,-1,True
+we should adopt libertarianism,libertarianism is the ultimate expression of freedom.,0.506647094,1,0.8676028064278569,0.36095571242785696,-1,False
+we should adopt atheism,atheism is a valid belief and shouldn't be trampled upon,0.409688083,1,0.7704939768440054,0.36080589384400547,-1,False
+holocaust denial should be a criminal offence,"yes, we should, because anything else simply offends holocaust survivors.",0.315077172,1,0.6757887146461286,0.36071154264612854,1,True
+we should legalize cannabis,cannabis has many medicinal properties that pharmaceutical drugs can?? fix and should be legalized,1.0,1,0.6395219396980387,0.3604780603019613,1,True
+holocaust denial should be a criminal offence,to try and cover up the evilness of it deserves punishment,0.399560961,1,0.7598445478125999,0.3602835868125999,1,True
+we should adopt libertarianism,libertarianism could plunge into misery those people with special needs or who need help to make their lives,0.459527224,-1,0.819611464634945,0.36008424063494504,-1,True
+we should adopt libertarianism,more government intervention is needed to ensure an equitable base for all of society. less libertarianism type concepts would benefit the poor and ensure more equality.,0.601610644,-1,0.9612878428247058,0.35967719882470583,1,False
+holocaust denial should be a criminal offence,people have the right to think what they'd like.,1.0,-1,0.6407570399108227,0.35924296008917733,-1,True
+we should ban factory farming,without factory farming there wouldn?? be enough food for everyone.,0.859744352,-1,0.5006100723685181,0.3591342796314819,-1,True
+we should ban factory farming,we should ban factory farming in city urban,0.25893116,1,0.6178644025550838,0.3589332425550838,1,True
+we should adopt libertarianism,"all other parties express false beliefs, and libertarianism is an adoption of all other parties mixed in one.",0.456346106,-1,0.8150789095891633,0.3587328035891633,1,False
+we should prohibit women in combat,women have the same intelligence and abilities as men do and should be able to fight along side of them.,0.475544687,-1,0.8334448804221695,0.35790019342216944,1,False
+we should ban factory farming,factory farming provides us with all the food we take for granted,1.0,-1,0.6423535004305706,0.3576464995694294,-1,True
+we should abolish the olympic games,the olympic games lets the young athletes meet people from many countries that participate,0.399156067,-1,0.7554431669213236,0.3562870999213236,1,False
+we should abolish the olympic games,helps bring the world together in the spirit of sportsmanship,0.397344146,-1,0.7532667989507555,0.35592265295075554,-1,True
+we should abolish the olympic games,it cost far too much to host a 2 week event,0.298142194,1,0.6528033074824255,0.3546611134824255,1,True
+holocaust denial should be a criminal offence,holocaust denial should not be a crime because blocking it out is easier for some.,0.43567146,-1,0.7901115555953077,0.35444009559530765,-1,True
+we should ban missionary work,"if the locals want to hear, why should we prevent it from them? they have the right to it.",0.259178841,-1,0.6135745224676024,0.35439568146760236,-1,True
+we should ban missionary work,"there are a number of different job roles that make a considerable impact, they are able to help someone in their darkest times, show them that things can get better & give them hope.",0.461997732,-1,0.8153323415298774,0.35333460952987744,-1,True
+we should prohibit school prayer,school is not the place to practice religion since it is run by the state.,1.0,1,0.646919086010098,0.35308091398990205,-1,False
+we should ban missionary work,missionary work can help other people.,1.0,-1,0.647093394063241,0.35290660593675904,-1,True
+we should adopt atheism,science continues to disprove large parts of religious texts thus rendering them redundant.,0.439042688,1,0.791690674700767,0.352647986700767,1,True
+we should adopt libertarianism,"it is said that libertarianism is about individual rights, property rights, the free market, capitalism, justice, or the principle of non-aggression. however, none of these principles will do so",0.480242033,-1,0.8327453424481668,0.35250330944816677,-1,True
+we should adopt libertarianism,people believing in this do not feel that people are entitled to social security or welfare which would hurt many people's lives,0.426598335,-1,0.7788984414921323,0.3523001064921323,-1,True
+we should ban private military companies,every company should have equal opportunity to serve the military.,0.364407827,-1,0.7165653643651616,0.3521575373651616,-1,True
+we should adopt atheism,we should adopt atheism as science has now proven the existence of a god is unlikely and the money given to the church and the land owned could be distributed to a greater cause.,0.451972142,1,0.8039774424143393,0.3520053004143393,1,True
+we should adopt atheism,various religion have conflicts between them and cause problems within groups whereas atheism is very generic.,0.430640694,1,0.7818928430585014,0.3512521490585014,1,True
+the use of public defenders should be mandatory,having public defenders for all would be too expensive for the state.,1.0,-1,0.6493734088704217,0.3506265911295783,-1,True
+we should abolish the three-strikes laws,we should abolish the three-strikes laws beacuase of human race,0.374915691,1,0.7255280433927402,0.35061235239274025,1,True
+we should abolish the three-strikes laws,we should not abolish three strike laws because a man/woman especially who made a serious crimes should be convicted longer.,0.439919628,-1,0.7895625266682877,0.34964289866828774,-1,True
+we should abolish the olympic games,"the olympics is not a fair contest and so should not be supported. many events, like sailing, are only accessible to richer countries.",0.461939888,1,0.8115573372086067,0.34961744920860666,-1,False
+we should ban missionary work,missionary work is often done with ulterior motives,1.0,1,0.6513235131737721,0.34867648682622787,1,True
+we should ban targeted killing,definitely serial murders must be prohibited from the legal and legal point of view by the simple reason to respect the life of the other and the right to life,0.430249227,1,0.7788910470944861,0.3486418200944861,1,True
+we should prohibit school prayer,school prayer maintains a structured belief system and allows students to express their belief.,0.498614409,-1,0.8470768879837197,0.34846247898371974,-1,True
+holocaust denial should be a criminal offence,the main argument would be freedom of speech and the rights of the individual not to be dictated to as to their belief.,0.522786589,-1,0.8712466823182555,0.34846009331825556,-1,True
+we should ban missionary work,missionaries do very good work and help a lot of people,1.0,-1,0.6516155529780185,0.34838444702198146,-1,True
+we should prohibit women in combat,women should be allowed to fight in the same way men are because they??e equally capable and shouldn?? be held back by their gender.,0.917368972,-1,0.5692108904597721,0.34815808154022787,-1,True
+we should ban private military companies,these pmcs are bound by their own rules and can cause trouble,1.0,1,0.6522660568436669,0.3477339431563331,-1,False
+we should legalize cannabis,"if you can drink, i can smoke, and you can drink.",0.227374101,1,0.5747904874629415,0.3474163864629415,-1,False
+the use of public defenders should be mandatory,"people must be free to exercise their right to self defend, accept the use of a public defender, or be able to hire thir own if they can afford to do so.",0.433706937,1,0.7809098671255609,0.34720293012556086,-1,False
+we should legalize cannabis,we shouldn't legalize cannabis because it is a gateway drug to things much worse like crack,1.0,-1,0.6547875271121618,0.3452124728878382,-1,True
+we should abolish the three-strikes laws,"three strikes laws increase the state of incarceration, pushing america into a more authoritarian state.",0.484158752,1,0.8292069231437051,0.3450481711437051,1,True
+holocaust denial should be a criminal offence,denying the holocaust and learning from this tragedy makes it much more likely that it will happen again. we need to learn from it so it will never happen again.,0.471181108,1,0.8161049884155875,0.3449238804155875,1,True
+we should adopt libertarianism,libertarianism is doomed to fail and is a bad idea,0.389430325,-1,0.7336594494162041,0.34422912441620407,1,False
+we should abolish the three-strikes laws,we should abolish the three-strikes laws because they lead to more people going to jail and wasting their potential when they could be working and having families and living their lives.,0.505781446,1,0.8498004622054456,0.3440190162054456,1,True
+we should adopt libertarianism,we should adopt libertarianism because we do not need the government involved in our lives.,1.0,1,0.6561058176325372,0.34389418236746283,1,True
+we should ban algorithmic trading,allow to maximize profits in a shorter time,0.359956627,-1,0.7036993617095966,0.3437427347095966,-1,True
+we should prohibit women in combat,women should be prohibited from combat roles because they pose a liability to the rest of the military.,0.492466987,1,0.8361648654600671,0.34369787846006705,1,True
+we should ban targeted killing,killing is never the right answer and should be stopped.,0.393516137,1,0.7371049669708615,0.3435888299708615,1,True
+we should ban factory farming,factory farming is the solution for cheaper food,1.0,-1,0.6565572669070109,0.3434427330929891,-1,True
+we should abolish the olympic games,the olympics often leave the host country in debt,1.0,1,0.6570356355497928,0.34296436445020717,1,True
+the use of public defenders should be mandatory,the use of public defenders should not be mandatory because a lot of them are not well versed in law.,1.0,-1,0.6571613128406699,0.3428386871593301,-1,True
+we should prohibit women in combat,women should not be on a battlefield. during times of war we should not see women in potentially dangerous situations. they should be protected.,0.487051679,1,0.829531324066758,0.342479645066758,-1,False
+we should prohibit women in combat,we shouldn't prohibit women in combat in some area in capacity,0.338644016,-1,0.6807558349343539,0.3421118189343539,-1,True
+we should adopt atheism,atheism is a free way of thinking of every human being without being governed by any doctrine dictated by religions or the church itself,0.447394709,1,0.7888928141476883,0.3414981051476883,-1,False
+holocaust denial should be a criminal offence,"holocause denial, whole deplorable and disgusting, is technically an extensions of free speech",0.447645378,-1,0.7889212307978848,0.3412758527978848,-1,True
+we should ban factory farming,we should not ban factory farming because it is a source of food for people,1.0,-1,0.6590424046272513,0.3409575953727487,-1,True
+we should prohibit women in combat,women in combat is not safe because they are not as strong as men,0.387875815,1,0.7286836323125695,0.3408078173125695,-1,False
+we should ban algorithmic trading,algorithmic trading displaces responsibility.,0.378159695,1,0.7187986973153222,0.3406390023153222,-1,False
+holocaust denial should be a criminal offence,there is no real proof the holocaust caused death.,0.395517733,-1,0.7357580427789128,0.3402403097789128,1,False
+we should ban targeted killing,even the government should not have the power to kill anyone they wish.,0.373191223,1,0.7128401138949791,0.3396488908949791,-1,False
+we should prohibit women in combat,we should prohibit women in combat because women aren't as efficient as men in combat,0.40660122,1,0.7461239103301265,0.3395226903301265,1,True
+we should adopt atheism,religions have covered the world since the dawn of mankind for good reason. they give people a moral guide to life and without that we would be in serious trouble.,0.424999189,-1,0.7645187726269241,0.33951958362692414,-1,True
+we should prohibit school prayer,this practice can be uncomfortable for kids not practicing any religion.,1.0,1,0.6608521766099231,0.3391478233900769,-1,False
+we should adopt libertarianism,"of course, if you can, freedom is something that we should always have",0.275345052,1,0.614167215865878,0.338822163865878,-1,False
+holocaust denial should be a criminal offence,any human that denies the holocaust should be severely punished.,0.463040443,1,0.8018136354621972,0.33877319246219717,1,True
+we should abolish the olympic games,we should abolish the olympic games because it very expensive to host,1.0,1,0.6613147778806601,0.33868522211933993,1,True
+holocaust denial should be a criminal offence,"in a land where free speech is sacred, you cannot criminalize holocaust denial no matter how bad the holocaust was and no matter how much you fear another.",0.510535403,-1,0.8487093584435227,0.3381739554435227,-1,True
+we should ban private military companies,we should ban private military companies because their support can be bought by the highest bidder.,1.0,1,0.6621317396260141,0.3378682603739859,-1,False
+we should ban factory farming,factory farming often involves the use of unnecessary pesticides,1.0,1,0.6623564688155991,0.33764353118440094,1,True
+holocaust denial should be a criminal offence,criminalizing holocaust denial will lead to more holocausts because it deprives people of independent thought.,0.530569596,-1,0.8677201795621379,0.3371505835621379,1,False
+we should adopt libertarianism,it will maximize freedoms and autonomy.,1.0,1,0.6629104784656457,0.33708952153435434,-1,False
+we should ban missionary work,missionary work is helpful to people in third world countries,1.0,-1,0.6630524659856871,0.3369475340143129,-1,True
+holocaust denial should be a criminal offence,in a truly free society all speech is tolerated & holocaust denial is no different even if it is an erroneous view,0.505295539,-1,0.842060345000256,0.33676480600025593,1,False
+we should ban algorithmic trading,we should not ban algorithmic trading because it helps the poorer companies and without it the richer countries might take advantage of the poorer ones,0.439247101,-1,0.7758870938880561,0.3366399928880561,-1,True
+we should prohibit school prayer,there is no place in education for out-dated beliefs. children who's parents indoctrinate them in iron age mythologies should be told to keep their beliefs private.,0.49266693,1,0.8285417020513274,0.3358747720513274,1,True
+holocaust denial should be a criminal offence,holocaust denial is a person's opinion of historical facts.,0.482424425,-1,0.818271596180631,0.33584717118063095,1,False
+we should adopt atheism,everyone has the right to believe in whatever they choose,0.399581176,-1,0.735306671558316,0.335725495558316,-1,True
+we should ban targeted killing,sometimes it's needed to get the enemy that otherwise would get away,0.354245428,-1,0.6898481484502261,0.33560272045022616,-1,True
+we should legalize cannabis,"second-hand smoke is still a concern, whether it is tobacco or cannabis.",0.360231634,-1,0.6954299114333728,0.3351982774333728,-1,True
+we should ban missionary work,we should not be sending our people into other cultures and trying to convert them.,0.978457944,1,0.6444565872913953,0.33400135670860465,-1,False
+we should prohibit school prayer,we should not prohibit school prayer because this country was founded on christian principles.,1.0,-1,0.666011961113375,0.333988038886625,-1,True
+the use of public defenders should be mandatory,"being paid government rather than private wage, they might not be committed enough to the case",1.0,-1,0.666104175523279,0.33389582447672095,-1,True
+we should ban private military companies,private military companies earn their profits from war. they do not work for a country but for whatever individuals hire them there really is not a good oversight for what these companies do.,1.0,1,0.6661690904505337,0.33383090954946626,-1,False
+we should abolish the olympic games,the olympic games creates an unhealthy competitive atmosphere that is often unattainable for most athletes,0.543776013,1,0.8771809359570544,0.3334049229570544,1,True
+the use of public defenders should be mandatory,use of public defenders should be mandatory because everyone deserves the right to be appointed an attorney. it is given when we are arrested we will be defended publicly,0.424175686,1,0.757118157947577,0.332942471947577,1,True
+we should prohibit women in combat,women are biologically weaker than men and would be a liability on the front lines,0.454020396,1,0.7865063458791098,0.33248594987910984,-1,False
+we should prohibit school prayer,"when i was going to school, we had school prayer and there was never any issues caused by it",0.402297742,-1,0.7347298026732595,0.3324320606732595,1,False
+we should abolish the olympic games,the olympic games have become a platform for trying to show superiority over other countries.,0.429800553,1,0.7613028241554796,0.3315022711554796,-1,False
+we should legalize cannabis,"smoke, unlike liquids, goes not only into the user but everywhere, therefore marijuana can be legalized but must be limited to medical use in controlled environments.",0.36492461,1,0.6962272297831702,0.3313026197831702,1,True
+social media brings more harm than good,"it is harmful to society because it preoccupies it's participants to an extreme degree. users take social media far too seriously, instead of being present in real life, it preoccupies almost all of their time.",0.547199869,1,0.8781312549446967,0.33093138594469673,1,True
+we should ban factory farming,we need factory farming to keep up with the demand for food,0.961758741,-1,0.6312314674053623,0.33052727359463774,-1,True
+we should legalize cannabis,allowing cannabis to be legal opens the door for more impaired people to be out there at any given time. this can cause a danger to innocent civilians is impaired people who are legally high are out there.,0.491351413,-1,0.8218542759366141,0.3305028629366141,1,False
+we should legalize cannabis,cannabis use has been linked to mental problems in youth and shouldn't be legalized.,1.0,-1,0.6698537956322581,0.3301462043677419,-1,True
+the use of public defenders should be mandatory,if everyone had the same quality of defense it would be a more level playing field,1.0,1,0.6700540010051814,0.3299459989948186,-1,False
+holocaust denial should be a criminal offence,if you deny the holocaust you should be sent to prison because you are a criminal. it should be illegal because it is abhorrent behavior to deny such a thing. denial will cause violence and chaos.,0.49319472,1,0.8229569230146832,0.3297622030146832,1,True
+we should prohibit women in combat,women can provide great benefits and morale boosters to men by treating their wounds and encouraging them to win,0.49011335,-1,0.8198564240700577,0.32974307407005765,-1,True
+we should ban private military companies,we should ban private military companies since our government should be in charge of the military so the rules can be consistent.,1.0,1,0.6706372083120575,0.32936279168794247,1,True
+we should adopt atheism,religion is the route of much evil and used to control people,0.431914694,1,0.76125666378944,0.32934196978944,1,True
+we should adopt atheism,if we support other religions then we should also support atheism.,0.320870009,1,0.6501528861281971,0.3292828771281971,-1,False
+we should legalize cannabis,cannabis should be legalised because this would allow the police to focus on much greater crimes that currently don?? get enough time dedicated to them since officers have to deal with cannabis offences instead,1.0,1,0.6707397002071547,0.3292602997928453,1,True
+we should adopt atheism,atheism is better than having various religions that fight against each other. believing in no god will unite people.,0.371900537,1,0.7001803817820975,0.32827984478209754,-1,False
+we should abolish the olympic games,we should abolish olympic games because it gets people all over the world riled up and in a bad situation.,0.494268086,1,0.8222430949704294,0.32797500897042936,1,True
+holocaust denial should be a criminal offence,criminalize the negationism is violate the first amendment of the constitution fundamental pillar of our great nation,0.446893022,-1,0.7747385790473204,0.3278455570473204,-1,True
+we should legalize cannabis,it creates a subculture of laziness.,0.244279854,-1,0.5720347481702328,0.32775489417023285,1,False
+we should prohibit women in combat,we shouldn't prohibit women in combat if is capacity of,0.358290632,-1,0.6859851962768073,0.3276945642768073,-1,True
+we should ban private military companies,private military companies are benefits for society because they are not inclined,0.324756133,-1,0.6524233228495596,0.3276671898495596,-1,True
+holocaust denial should be a criminal offence,holocaust denial provides adherents with permission from the self to allow racial hate to fester and boil over into those types of situations.,0.624703381,1,0.9523453512285369,0.3276419702285369,-1,False
+we should ban private military companies,we should ban private military companies because the military should be only funded by the government.,1.0,1,0.6729293916304582,0.3270706083695418,-1,False
+we should ban factory farming,we need to feed a large population & factory farming helps ensure we can do that,1.0,-1,0.6732909939583203,0.32670900604167974,-1,True
+we should legalize cannabis,we should legalize cannabis so people can use it for medicinal purposes,1.0,1,0.6733757028922353,0.32662429710776475,1,True
+we should prohibit women in combat,women in combat should be given the same rights as men.,0.451447307,-1,0.7778895813540568,0.3264422743540568,1,False
+we should ban missionary work,missionary work is dangerous and not necessary,1.0,1,0.6736540103728076,0.3263459896271924,1,True
+we should prohibit school prayer,"living in democracy, everybody has the rights to do whatever wants and wherever wants.",0.341152306,-1,0.6671579051430288,0.32600559914302873,-1,True
+we should ban private military companies,private militarys would pay better.,0.294703842,-1,0.6205461303455045,0.32584228834550455,-1,True
+we should adopt libertarianism,"the more the government interferes, the larger the bureaucracy becomes, leading to waste and frustration where we could have had prosperity and happiness.",0.449599923,1,0.7752910998644325,0.32569117686443244,-1,False
+we should ban factory farming,factory farming is bad for the environment and should be banned,1.0,1,0.674313509670684,0.32568649032931596,1,True
+we should ban missionary work,missionary work can create conflict,1.0,1,0.6746116448710286,0.32538835512897135,-1,False
+we should prohibit school prayer,we should prohibit school prayer because religion has no business in school it should be at home and church only,1.0,1,0.6748698678494076,0.3251301321505924,1,True
+we should ban private military companies,they are basically mercenaries and often violate international law.,1.0,1,0.675439259047177,0.32456074095282295,1,True
+we should ban targeted killing,we should ban targeted killing for resguard and protection of the family,0.414543357,1,0.739050079403054,0.324506722403054,1,True
+the use of public defenders should be mandatory,making use of public defenders mandatory is absolutely nonsense and should not be followed.,0.33554846,-1,0.6599736069463387,0.32442514694633867,-1,True
+we should ban factory farming,factory farming is cruel to the animals.,1.0,1,0.6761606362641389,0.3238393637358611,1,True
+we should prohibit school prayer,while at school the focus should be on learning. prayer is a distraction and unnecessary. why not just pray before school or after?,1.0,1,0.6761818301947072,0.32381816980529277,1,True
+the use of public defenders should be mandatory,the use of pulic defenders places a large drain of already strained government finances.,0.943004355,-1,0.6195613503620602,0.32344300463793985,-1,True
+we should prohibit school prayer,"therefore, several states stipulated that the bible had a place in the classrooms",0.313906897,-1,0.6372594556273343,0.3233525586273343,1,False
+social media brings more harm than good,the social media es very important for free information,0.386614495,-1,0.7097395299784035,0.3231250349784035,1,False
+we should ban factory farming,i think that we should ban factory farming in polulation city,0.062033752,1,0.3849639792537452,0.3229302272537452,1,True
+we should prohibit school prayer,we should prohibit school prayer as it does not belong in the school but should be left at home or the church.,1.0,1,0.6775402947148002,0.32245970528519985,1,True
+we should adopt libertarianism,people have the right to support or believe in any political party they wish.,0.428629315,1,0.7509356860414818,0.32230637104148174,-1,False
+holocaust denial should be a criminal offence,this should be a criminal offense because of the horrors others had to endure.,0.391490166,1,0.7136795447006928,0.32218937870069286,1,True
+we should adopt atheism,we would all get along better without the fights about religious issues,0.346131708,1,0.668159295980739,0.322027587980739,1,True
+holocaust denial should be a criminal offence,it is a tragic even and denying it is dangerous,0.406469614,1,0.7283853261204554,0.3219157121204554,1,True
+we should ban targeted killing,"there are many evils in the world, but extinguishing people?? lives with targeted, extra-judicial killings, when you don't even know their names.",0.219570624,1,0.5413626813862207,0.3217920573862207,1,True
+we should ban private military companies,without private military companies the army wouldn?? be able to provide enough personnel every day in crisis environments and therefore its essential they remain.,0.953372549,-1,0.632039812714063,0.32133273628593706,-1,True
+we should ban private military companies,private military companies are protecting us where our military gaps,0.30658398,-1,0.6278665712270366,0.3212825912270366,-1,True
+we should prohibit school prayer,to prohibit school prayer would be to ban a moment of all coming together and feeling part of something powerful which fortifies children against hard times.,0.475766203,-1,0.7967920814493595,0.32102587844935954,-1,True
+we should ban factory farming,factory farms are needed to produce the amounts of food that we need at reasonable prices,1.0,-1,0.6790479073892868,0.3209520926107132,1,False
+we should prohibit school prayer,people should be able to pray wherever they choose,1.0,-1,0.6795747789690689,0.3204252210309311,1,False
+we should abolish the three-strikes laws,we should not allow criminals to get away with their crimes,0.419072888,-1,0.7391753317525862,0.32010244375258623,-1,True
+we should ban private military companies,in a free economy then we cannot decide which companies can trade and which can not.,0.311914659,-1,0.6318613223139765,0.31994666331397653,-1,True
+we should prohibit school prayer,"if a child wants to pray, for example before lunch why should he not be able to?",0.312776595,-1,0.6327104147921087,0.31993381979210866,-1,True
+the use of public defenders should be mandatory,public defenders should represent an obligation as part of a more objective orientation of the trials,0.521987375,1,0.8419198374461387,0.3199324624461387,1,True
+we should prohibit school prayer,everybody believes in something different so it?? best to avoid religion in school to avoid offending others,0.860557106,1,0.5406338123877055,0.31992329361229455,1,True
+we should ban factory farming,it is cruel to animals and is not healthy for us to eat.,1.0,1,0.6803300737443834,0.31966992625561663,1,True
+we should prohibit school prayer,there is nothing wrong with students engaging in prayer during school time. if anything it should be encouraged more and might lead to less school violence.,0.47021378,-1,0.7895984605912455,0.3193846805912455,1,False
+we should adopt atheism,people have the right to practice this rather than an organized religion.,0.440874143,1,0.760144287498072,0.31927014449807195,-1,False
+holocaust denial should be a criminal offence,having holocaust denial as a criminal offence is too ridiculous and goes to show how people these days are overly sensitive.,0.531188141,-1,0.8502852075609674,0.31909706656096737,1,False
+the use of public defenders should be mandatory,public defenders can be biased against people they are forced to represent,0.421489207,-1,0.740540623658215,0.31905141665821507,-1,True
+we should adopt libertarianism,libertarianism is another silly way to deal with our problems,0.354330789,-1,0.6732762782927392,0.3189454892927392,1,False
+we should ban targeted killing,we should ban targeted killing as it is a cowards way of hunting and does not make it a sport.,0.477531203,1,0.7962473302416072,0.3187161272416072,1,True
+we should abolish the olympic games,there is too much cheating by the various nations,0.330627203,1,0.6493245309965328,0.3186973279965328,1,True
+we should ban targeted killing,we shouldn't ban targeted killing because on game the integrity,0.322381739,-1,0.6402172634284231,0.3178355244284231,-1,True
+the use of public defenders should be mandatory,public defenders are usually overworked and giving everyone one will cause the quality to drop,0.408702887,-1,0.726514741928608,0.317811854928608,1,False
+we should ban private military companies,private military companies step in where a governments military cannot be used for whatever reason. they have a valid purpose and should remain.,1.0,-1,0.6822798380282573,0.3177201619717427,-1,True
+we should adopt libertarianism,libertarianism allows businesses to pollute the environment and disturb the natural habitat of living species,0.545901866,-1,0.8635103531297483,0.3176084871297483,1,False
+we should abolish the three-strikes laws,the three-strikes laws has failed at every turn.,0.416856342,1,0.7344064879502421,0.3175501459502421,1,True
+we should prohibit women in combat,we should prohibit women in combat as they should not be subjected to such arduous work.,0.464573888,1,0.7820884776942524,0.3175145896942524,-1,False
+we should adopt libertarianism,"if it should be adopted, since they advocate a high degree of personal and economic freedom",0.428541289,1,0.7459696185009382,0.31742832950093824,1,True
+we should ban targeted killing,targeted killing upsets the balance of nature,0.41194857,1,0.7287724652745456,0.31682389527454563,1,True
+we should adopt libertarianism,some people do not deserve to be liberated,0.300176865,-1,0.6168021469188708,0.3166252819188708,-1,True
+we should ban factory farming,factory farming increases the incidence of food borne illness,1.0,1,0.6834354903219186,0.31656450967808136,-1,False
+we should abolish the olympic games,i think that we shouldn't abolish the olympic games for world peace,0.766749132,-1,0.4502263857377634,0.31652274626223664,-1,True
+we should legalize cannabis,legal marijuana could actually improve opportunities for the black market because cartels can easily undermine licensed sellers prices and the black market will thrive,0.517666223,-1,0.8341884795637992,0.3165222565637992,1,False
+we should prohibit women in combat,women have the right to fight for their country as much as men.,0.466036607,-1,0.7819843257818856,0.3159477187818856,-1,True
+we should prohibit school prayer,prohibiting school prayer would drive down standards in schools be eroding the essential feeling of belonging which is reinforced by this ritual carried out together as a group.,0.534787314,-1,0.8506092464798706,0.31582193247987056,-1,True
+we should ban private military companies,private military companies have no governmental controls and can do more harm then good.,1.0,1,0.684489207118127,0.315510792881873,-1,False
+we should ban factory farming,factory farms produce a lot of pollution,1.0,1,0.6844914965103648,0.3155085034896352,1,True
+we should ban algorithmic trading,"if it should be banned, one way to better protect high frequency commercial codes is to simply prohibit them",0.441276133,1,0.7566729943951229,0.3153968613951229,-1,False
+we should prohibit school prayer,schools should have a place for prayer,0.348632201,-1,0.6637163688908297,0.31508416789082977,-1,True
+we should ban factory farming,factory farms are a violent and dehumanizing place to work,1.0,1,0.6849934750605001,0.3150065249394999,-1,False
+holocaust denial should be a criminal offence,holocaust denial should be a criminal offence,0.420556187,1,0.7355250071874996,0.31496882018749955,1,True
+we should ban algorithmic trading,"i also think the same, they should ban that",0.263750063,1,0.5785452664084273,0.3147952034084273,1,True
+we should prohibit women in combat,women and men alike are capable to fight for our country in combat,0.426368472,-1,0.740901715254941,0.314533243254941,-1,True
+we should adopt atheism,we should not adopt atheism because many people believe their is a god and that is their right,0.404588794,-1,0.7190737888402516,0.31448499484025166,-1,True
+holocaust denial should be a criminal offence,purposefully misleading people about an event that was so important in history is not fair to people who don't know any better.,0.493482587,1,0.8079198450176012,0.3144372580176012,-1,False
+we should ban factory farming,factory farming is harming the environment on a large scale,1.0,1,0.6858301917433943,0.3141698082566057,1,True
+we should legalize cannabis,"cannabis is not unlike cigarettes and alcohol; if used responsibly, it should not pose a problem.",1.0,1,0.6860717448509662,0.3139282551490338,-1,False
+we should legalize cannabis,big companies could try to get in on the market and overcharge and create unnecessary regulations for legalized cannabis.,0.430673436,-1,0.7442941430395268,0.31362070703952677,1,False
+we should prohibit school prayer,prohibitng school prayer is as unethical as having the kids learn off of ipads which they do.,0.450623686,-1,0.7642005383211729,0.3135768523211728,1,False
+we should adopt atheism,without god you can't be a good person,0.194400627,-1,0.5078235218830371,0.31342289488303715,-1,True
+we should legalize cannabis,cannabis is no more harmful than alcohol which is legal.,1.0,1,0.6866748438323027,0.3133251561676973,1,True
+we should prohibit women in combat,"if women in combat are captured by the enemy, they could be raped",0.403130906,1,0.7163344812073428,0.31320357520734277,-1,False
+we should ban algorithmic trading,we should not ban algorithmic trading because if people can find a way to beat the system they should not be punished.,0.470667424,-1,0.7837129233189218,0.31304549931892184,-1,True
+we should adopt libertarianism,this is the ideal for human. human object has always been to be free as much as possible. removing governments control and coercion over the population will lead to more satisfaction in the life human live,0.499001,1,0.8119433985999673,0.31294239859996736,-1,False
+we should abolish the three-strikes laws,a criminal will think twice about committing a crime knowing that the next crime he commits might mean life imprisonment.,1.0,-1,0.687520248587526,0.31247975141247397,-1,True
+we should ban algorithmic trading,"it often tries to make trades that are too large,",0.385114838,1,0.6975537437036419,0.31243890570364186,1,True
+we should prohibit school prayer,if it is not endorsed by the school and taken on by the students own volition quietly that should be allowed,0.431035372,-1,0.7433589024136018,0.3123235304136018,1,False
+holocaust denial should be a criminal offence,denial of such a savage act should be punishable!,0.380151948,1,0.692408982572582,0.31225703457258197,1,True
+we should prohibit women in combat,this leads to gender inequality and helps promote gender sterotypes,0.530000084,-1,0.8421340400062309,0.31213395600623095,-1,True
+we should adopt libertarianism,"libertarianism would be a huge mistake, especially for the poor in our nation.",0.501737722,-1,0.813785383040849,0.312047661040849,1,False
+we should ban algorithmic trading,algorithmic trading prevents careful thought before each trade,1.0,1,0.6880608522501406,0.3119391477498594,1,True
+we should ban private military companies,we should ban private military companies because it is not a stable line of work,0.374915197,1,0.6867180971683856,0.31180290016838563,-1,False
+social media brings more harm than good,"there is so many proofs to support that. from kids being involved in suspicious activities to scumming people with fake sales.also, spending too much time on social media and ignoring everything else.",0.491579796,1,0.803347760241305,0.31176796424130504,1,True
+we should ban private military companies,private companies have less strict guidelines and less oversight which makes them careless,1.0,1,0.6882874640219372,0.3117125359780628,-1,False
+we should legalize cannabis,cannabis has great potential as a medical product,1.0,1,0.6884385649758581,0.3115614350241419,1,True
+we should ban targeted killing,taking a known terrorist or goverment target off the streets permanently will save countless lives.,0.476499402,-1,0.7880056066379599,0.3115062046379599,1,False
+we should ban private military companies,private military companies take the pressure off government armies.,0.952937273,-1,0.6414904207148522,0.3114468522851478,-1,True
+we should ban missionary work,other countries do not need us to step in and force our religion on them.,0.958812338,1,0.6474889090867848,0.3113234289132152,-1,False
+we should ban factory farming,factory farming is cruel to the animals so we should ban it,0.979580078,1,0.669003182223447,0.310576895776553,1,True
+holocaust denial should be a criminal offence,"if holocaust denial is allowed (i.e., not criminalized), many ignorant and uninformed people will believe that the holocaust never happened.",0.535643086,1,0.8457824859538817,0.31013939995388173,-1,False
+we should ban factory farming,factory farming is a necessary evil to keep up with modern food demands,0.394042715,-1,0.7041545264907885,0.3101118114907885,-1,True
+we should ban missionary work,we should not be forcing our religions on other cultures.,0.911495258,1,0.6014677245179751,0.31002753348202483,-1,False
+we should ban algorithmic trading,"algorithmic trading makes it easier for poor people to get more money, all they need to do is come up with an algorithm that makes them more money",0.50923449,-1,0.818980864045176,0.309746374045176,-1,True
+we should abolish the olympic games,the olympic games are too expensive to host.,1.0,1,0.69031223619473,0.30968776380526997,1,True
+we should ban factory farming,factory farming gives the most output for the least input therefore it's a more profitable way of farming. more money is a good thing for farmers.,1.0,-1,0.6905634623422908,0.3094365376577092,-1,True
+the use of public defenders should be mandatory,everyone should have the best defense available to them,0.365877701,1,0.6751435250525512,0.30926582405255115,-1,False
+we should ban targeted killing,targeted killing eliminates evil rulers without harm to civilians,1.0,-1,0.690766975013844,0.309233024986156,1,False
+we should prohibit women in combat,"women are just not as physically strong as men, and can't be relied on in armed combat.",0.499752174,1,0.8089572031633059,0.3092050291633059,-1,False
+we should adopt atheism,atheism would remove the freedom of religion which this country is founded on.,0.497073203,-1,0.8060196861354152,0.3089464831354152,-1,True
+we should ban factory farming,factory farming is the most efficient way of fulfilling the demand for meat,1.0,-1,0.69111359793322,0.30888640206678,-1,True
+holocaust denial should be a criminal offence,the holocaust was a horrific historical event with witnesses and evidence proving it happened,0.480914161,1,0.7895772736060902,0.3086631126060902,1,True
+we should ban factory farming,factory farming is the only way to meet the demand for food.,1.0,-1,0.6914551388645381,0.30854486113546187,-1,True
+we should ban private military companies,we must prohibit private military companies because they serve the service of money,0.337226219,1,0.6456324316582178,0.3084062126582178,-1,False
+we should abolish the olympic games,we should abolish the olympic games as not everyone sticks to the rules and it's unfair on those competitors that do their best,0.504474123,1,0.8126667294054175,0.30819260640541746,1,True
+we should ban private military companies,private military companies take on missions when our military doesn't have enough manpower.,1.0,-1,0.6920936365585518,0.30790636344144817,-1,True
+we should ban targeted killing,we should not prohibit selective killings since they are good political consequence,0.376570038,-1,0.6843200689701456,0.30775003097014564,-1,True
+we should adopt atheism,there are too many religions with many different beliefs that cause division among people,0.445240375,1,0.7528934985003224,0.30765312350032237,1,True
+we should prohibit school prayer,"school prayer is forcing a religion on everyone, including non-believers",1.0,1,0.6929229693105214,0.30707703068947856,1,True
+we should prohibit school prayer,prayers are the spirituals medicines for our body and good health. prayers should be permitted to be conducted anywhere it is necessary,0.468662264,-1,0.7752887761965245,0.3066265121965245,1,False
+we should ban private military companies,we should ban private military companies because it relies too much on government funding,1.0,1,0.6938588069479147,0.3061411930520853,-1,False
+we should ban private military companies,private military companies should be banned as they are not subject to military laws,1.0,1,0.6945901904995839,0.3054098095004161,-1,False
+the use of public defenders should be mandatory,"this would level the playing field for all, meaning the poor would have access to the same lawyers the rich use.",1.0,1,0.6946102949447435,0.30538970505525653,-1,False
+we should ban missionary work,"people should be free to share their beliefs. they do not force them on anyone, just share with those who want to listen.",0.456601732,-1,0.7618648626564835,0.3052631306564835,-1,True
+we should ban factory farming,factory farming is barbaric because animals are mistreated,0.979078949,1,0.6740158616751963,0.3050630873248037,1,True
+holocaust denial should be a criminal offence,holocaust denial is an attempt to perpetrate fraud on the public and must be nipped in the bud.,0.542208447,1,0.8469014882992377,0.3046930412992377,1,True
+the use of public defenders should be mandatory,public defenders should be mandatory because it puts everybody on the same playing level,1.0,1,0.6953301130195668,0.3046698869804332,1,True
+we should adopt libertarianism,the governmental protection that we take for granted would not exist with libertarianism,0.940703738,-1,0.6361834296603736,0.3045203083396264,-1,True
+we should legalize cannabis,if cannabis is legal it can be regulated and taxed,0.979746047,1,0.6754230603008222,0.3043229866991778,1,True
+we should legalize cannabis,people die from drowning or are killed in car accidents but the government wouldn't arrest people for going to swimming pools or outlaw driving,0.43690334,1,0.7410015916644408,0.3040982516644408,-1,False
+we should ban factory farming,factory farming results in more affordable food,1.0,-1,0.6960032993271337,0.3039967006728663,-1,True
+we should legalize cannabis,cannabis has many valuable medical uses.,1.0,1,0.6960035634615392,0.30399643653846076,1,True
+we should ban algorithmic trading,we should ban algorithmic trading because it is only an estimate and could prove devastating to individuals that it may affect down the road when the need is not as planned.,0.510562858,1,0.8139026494259535,0.30333979142595346,1,True
+we should ban factory farming,factory farming makes food costs lower.,0.956836656,-1,0.6535092388387058,0.3033274171612942,-1,True
+we should adopt libertarianism,every person needs rules to go by so that everything is fair,0.356330977,-1,0.6595303369351204,0.3031993599351204,1,False
+we should ban factory farming,factory farming exploits animals cruelly.,0.97833162,1,0.6752735110768247,0.3030581089231753,1,True
+we should legalize cannabis,there are many medicinal uses for cannabis that are not as harmful as prescription drugs,1.0,1,0.6970857094257199,0.3029142905742801,-1,False
+we should legalize cannabis,cannabis can help people alleviate pain,1.0,1,0.6971000670174594,0.3028999329825406,-1,False
+we should ban factory farming,factory agriculture lowers the costs of the products and ensures its production throughout the year,1.0,-1,0.6974373716899313,0.30256262831006875,-1,True
+we should adopt atheism,people will still believe what they believe regardless. adopting atheism will just push religion underground like in the soviet union.,0.451320043,-1,0.7537132276988723,0.3023931846988723,-1,True
+we should adopt libertarianism,the belief and support of liberty is good,0.390906011,1,0.693104522116615,0.302198511116615,-1,False
+we should ban factory farming,factory farming shouldn't be banned because it lowers business costs,0.947882099,-1,0.6458716471628195,0.30201045183718045,-1,True
+we should prohibit school prayer,prayer has no place in public school because not everyone practices the same religion,1.0,1,0.6984244147026917,0.3015755852973083,1,True
+we should adopt atheism,we have the right to believe in what we believe is best without adapting to any doctrine,0.458149769,1,0.7596906455979702,0.3015408765979702,-1,False
+social media brings more harm than good,social media connects use with others who we would otherwise not meet,1.0,-1,0.6984921748598127,0.30150782514018726,-1,True
+we should ban private military companies,private military companies are little better than mercenaries and should be treated in the same way,0.977056082,1,0.6755976829429873,0.30145839905701277,1,True
+we should prohibit school prayer,we should stop school prayer because we are forcing religion on children when they should make there own mind up if they should believe in a god.,1.0,1,0.6990646567649454,0.30093534323505455,1,True
+we should abolish the olympic games,if countries want to host them then so be it,0.30797618,-1,0.6088315029113986,0.30085532291139866,-1,True
+we should prohibit women in combat,we must prohibit women in combat because it is a reality that they are more fragile,0.429898158,1,0.7305081303637038,0.3006099723637038,1,True
+we should adopt libertarianism,libertarianism is better than anything else at keeping peace,0.927480474,1,0.6273462639545688,0.30013421004543117,-1,False
+we should ban factory farming,"factory farming is how we are able to keep up with the demand in this country. if we ban it, we lose food availability.",1.0,-1,0.6999079320190167,0.3000920679809833,-1,True
+social media brings more harm than good,social media can help people from all over the world to connect and share ideas. social media helps the world to be a smaller anda happier place.,0.651863569,-1,0.9518396781347698,0.2999761091347698,-1,True
+we should adopt atheism,fewer wars will arise since there will be no fighting over holy lands or differing religions.,1.0,1,0.7000723826935756,0.29992761730642437,-1,False
+we should adopt atheism,there is no such thing as a god so why have religion?,0.254022677,1,0.5538971027391528,0.29987442573915285,-1,False
+the use of public defenders should be mandatory,all citizens have the right to have an impartial defense and a fair trial.,0.515631264,1,0.8153384169628468,0.2997071529628468,1,True
+we should prohibit school prayer,we all have the right to have our beliefs and the fact of a prayer does not change anything,0.433195564,-1,0.7327916659267764,0.2995961019267764,1,False
+we should legalize cannabis,it is almost impossible to police and no more harmful than alcohol so legalising cannabis would free police resources to go after those using or supplying more dangerous drugs.,0.507402266,1,0.8069138066885798,0.29951154068857977,1,True
+we should legalize cannabis,"it is a natural, safe, medicinal plant.",0.889091343,1,0.589635785316517,0.2994555576834831,-1,False
+holocaust denial should be a criminal offence,holocaust denial should not be a criminal offence since the government can't enforce this law.,0.498948617,-1,0.7983947052635567,0.29944608826355673,-1,True
+the use of public defenders should be mandatory,public defenders are necessary to make sure everyone is represented,1.0,1,0.7006644839180416,0.2993355160819584,1,True
+we should ban targeted killing,targeted killing makes the world a safer place removing those people who aim to harm others,0.544904762,-1,0.8441933103928103,0.29928854839281027,-1,True
+we should ban factory farming,factory farming is a cheaper way to produce large quantities of food,0.978534356,-1,0.6792927591507469,0.2992415968492531,-1,True
+we should adopt atheism,science has long since explained the origins of the world around us - a mythology developed when science was not understood is no longer needed.,0.492912744,1,0.7920775276529448,0.2991647836529448,1,True
+we should prohibit school prayer,i wasn't a christian and was made to take part in assembly where wee would have to sing and prayer . why should i? schools should be secular,0.316256803,1,0.6153322720685256,0.2990754690685256,-1,False
+we should adopt libertarianism,we shouldn't adopt libertarianism for orden and enevelope of people,0.224662368,-1,0.5237191682071967,0.29905680020719666,-1,True
+holocaust denial should be a criminal offence,denying the holocaust is a severe form of gaslighting and mental abuse,0.531052382,1,0.8300193270786487,0.2989669450786486,1,True
+we should abolish the three-strikes laws,the 3 strikes law doesn't allow judicial discretion in sentencing,1.0,1,0.7011423828105334,0.2988576171894666,1,True
+holocaust denial should be a criminal offence,"holocaust denial is not a serious issue, everybody has a right to state views, even if others do not happen to agree with them",0.499700369,-1,0.7981240116639733,0.2984236426639733,-1,True
+we should ban factory farming,factory farming does not provide a natural environment for animals,1.0,1,0.7015915860323523,0.2984084139676477,1,True
+we should abolish the olympic games,the olympic games should not be abolished because it is a tradition going back to the roman empire.,0.489654608,-1,0.7880222242951973,0.2983676162951973,-1,True
+we should legalize cannabis,the use of cannabis by young adults leads to mental health issues,1.0,-1,0.7019379831123117,0.2980620168876883,1,False
+we should prohibit women in combat,"they aren't as good at it and since they make babies, they should not be put in harm's way.",0.409778139,1,0.707771434371241,0.29799329537124103,-1,False
+holocaust denial should be a criminal offence,everyone should be entitled to freedom of speech as long as it isnt inciting hatred and denying that the holocaust happened,0.592763956,-1,0.8907491265947425,0.2979851705947425,-1,True
+we should ban factory farming,we should ban factory farming because of the horrible conditions for these poor animals.,1.0,1,0.7020808331561672,0.2979191668438328,1,True
+we should ban missionary work,"missionary work does good in many countries, helping with education and poverty.",1.0,-1,0.7021292847034898,0.2978707152965102,1,False
+we should abolish the three-strikes laws,habitual offenders of serious offenses should not get three chances.,0.466452029,1,0.7640493400000695,0.29759731100006953,-1,False
+we should ban algorithmic trading,the high volume that automatic trading allows makes for a more efficient and active market.,0.514352612,-1,0.8119231399666551,0.29757052796665506,-1,True
+the use of public defenders should be mandatory,no one should be responsible to defend yourself against your crime other than the criminal,0.359231298,-1,0.6566512754682887,0.29741997746828874,-1,True
+holocaust denial should be a criminal offence,"this would start a slippery slope, making thought crimes a reality.",1.0,-1,0.702957550328688,0.297042449671312,-1,True
+we should ban factory farming,"the need for more food, due to population growth, makes the development of the agricultural industry a necessity",0.424515725,-1,0.7214649383520693,0.29694921335206925,1,False
+we should ban factory farming,factory farming is necessary where there are no longer farms that kept animals,0.380062923,-1,0.6769146619486885,0.29685173894868855,1,False
+we should abolish the olympic games,the olympic games develop between the competitors of envy and encirclement which is not healthy,0.453310188,1,0.7500460229715621,0.2967358349715621,1,True
+we should ban factory farming,"because of the cruelty to animals, factory farming should be banned.",1.0,1,0.7039887151147082,0.2960112848852918,1,True
+we should ban private military companies,private military companies are operated for profit rather than for the defence of nations.,1.0,1,0.704028180068628,0.295971819931372,-1,False
+we should ban algorithmic trading,"algorithms can be hacked and therefore the data isn?? safe, and should therefore be banned.",1.0,1,0.7042826810203459,0.29571731897965414,1,True
+we should legalize cannabis,it is a waste of police time and resources trying to track down cannabis farms,0.926335682,1,0.6307022097869521,0.2956334722130479,1,True
+we should adopt libertarianism,this is not the answer to everything regardless how good it seems,0.271779438,-1,0.5671811128205261,0.2954016748205261,1,False
+holocaust denial should be a criminal offence,any person knowingly supporting an act of hatred should be punished as an accompliss.,0.530041517,1,0.8254220248768526,0.29538050787685255,1,True
+we should adopt libertarianism,we need government to maintain peace and order.,0.395796884,-1,0.6911589259849537,0.29536204198495364,1,False
+we should ban missionary work,we shouldn't ban missionary work as no one else will do it,0.852986442,-1,0.5577157226367346,0.2952707193632653,-1,True
+we should adopt atheism,"atheism should not be adopted because it promotes ideas of uncaring and thoughtlessness. if there is no afterlife or point to life, why should i bother trying hard?",1.0,-1,0.7047472098315618,0.2952527901684382,-1,True
+we should ban missionary work,"no, i don?th think that ban missionary work",0.039733426,-1,0.3347951504159483,0.2950617244159483,-1,True
+we should legalize cannabis,we should legalize cannabis as it appears to do more good than harm for those that have illnesses.,1.0,1,0.7052384944030573,0.2947615055969427,-1,False
+we should ban missionary work,the money used for missionary work could be put to better use for that church or local community.,0.981229212,1,0.6866780221214239,0.2945511898785761,-1,False
+we should adopt libertarianism,"as long as they are not harming other people, individual's should be able to do what they want with their own lives",0.490784197,1,0.7852807626542702,0.2944965656542702,1,True
+we should legalize cannabis,cannabis has multiple documented health benefits,1.0,1,0.7055054759573656,0.29449452404263443,1,True
+the use of public defenders should be mandatory,the mandatory use of public defenders will bring a more consistent judicial system,1.0,1,0.7057006101396655,0.29429938986033455,-1,False
+we should ban factory farming,factory farming is cruel and inhumane.,1.0,1,0.7059535623547021,0.2940464376452979,1,True
+holocaust denial should be a criminal offence,"holocaust denial should be a criminal offence because its main goal is to make jewish people feel in danger, making it a hate crime.",0.581428661,1,0.8752491448708574,0.29382048387085735,1,True
+we should prohibit women in combat,women in combat can cause problems.,0.451892933,1,0.7456897331347163,0.2937968001347163,1,True
+we should adopt libertarianism,life would be fairer under a libertarianism society where no one is held back for any reason.,1.0,1,0.706417869603312,0.293582130396688,-1,False
+we should ban private military companies,private military companies encourage violence and should be banned,1.0,1,0.70673263609751,0.29326736390249,1,True
+we should prohibit school prayer,school prayer violates the seperation of church and state,1.0,1,0.7067482787464687,0.2932517212535313,1,True
+we should prohibit school prayer,"school and religion have nothing to do with each other; if students want to pray they can do it at home or church, not school",1.0,1,0.7067589187605756,0.2932410812394244,-1,False
+we should ban private military companies,private military companies perform useful support roles in conflict zones around the world,1.0,-1,0.7069823076104913,0.2930176923895087,-1,True
+we should prohibit women in combat,the strongest people should be in combat regardless of their gender,1.0,-1,0.7069961853282469,0.29300381467175307,1,False
+we should abolish the olympic games,only older generations watching olympic games and families and cousins of athlets who performing in it.,0.476434468,1,0.7693967742721102,0.2929623062721102,1,True
+we should abolish the olympic games,it is every olympic athlete's dream to win a gold medal,0.425942939,-1,0.7188343455281999,0.2928914065281999,1,False
+we should adopt atheism,"we should adopt atheism since there are so many religions with so many rules, with no real evidence of a god. people can get away with many crimes by saying they are a church or religion.",0.485125222,1,0.7778393542041238,0.29271413220412373,1,True
+we should legalize cannabis,so many people already use cannabis that the only real difference legalizing would make would be that the profits could be taxed.,1.0,1,0.7074211287904711,0.29257887120952886,1,True
+we should adopt atheism,we are a free country and are allowed to believe in our god if we want to. adopting a non-belief goes against the ability to choose our religion and that goes against the founding of our country.,1.0,-1,0.7075101859951334,0.2924898140048666,-1,True
+we should adopt libertarianism,"libertarians think that people should be able to live doing whatever they want, but sometimes limits to freedom must be made for the greater good.",1.0,-1,0.7084595119230817,0.29154048807691835,-1,True
+we should ban targeted killing,targeted killing allows for prime targets and organizers of terror with ingrain beliefs that result in deadly consequences and should be assassinated for protection of lives.,0.674203991,-1,0.9657300367996342,0.29152604579963426,1,False
+we should ban targeted killing,killing with out trial by law is wrong,1.0,1,0.7085559680211135,0.29144403197888646,1,True
+we should ban algorithmic trading,this method is unfair to many traders who do not have access to such technology,1.0,1,0.7086415043934795,0.2913584956065205,-1,False
+we should abolish the three-strikes laws,the throoe strike law has not proved effective in reducing criminality,0.447645378,1,0.7389924750555301,0.29134709705553014,1,True
+we should ban private military companies,banning private military takes away from the protection our counrty was founded on.,0.408013682,-1,0.6992775814587142,0.2912638994587142,-1,True
+we should adopt libertarianism,"you can't just do whatever you want, whenever you want.",0.262724066,-1,0.5537754724991657,0.2910514064991657,-1,True
+we should ban private military companies,private military companies operate on their own terms and could harm civilians,0.979580078,1,0.6885308238101193,0.2910492541898807,-1,False
+social media brings more harm than good,"there are bad apples in social media as there are in most things, however the good out weight the bad when it comes to bringing people together in various ways.",1.0,-1,0.7089969644661438,0.2910030355338562,1,False
+we should ban missionary work,we should not force our ways and beliefs on other groups of people,1.0,1,0.7091740110372168,0.2908259889627832,-1,False
+we should ban private military companies,we should allow all companies an opportunity to get dod contracts.,0.393375931,-1,0.6841411217808073,0.2907651907808073,-1,True
+we should adopt atheism,atheism would take away religious hatred and wars which have caused a huge amount of damage throughout history.,0.539251286,1,0.8298711613035852,0.29061987530358513,1,True
+social media brings more harm than good,"social media has brought a democratization of media to all those who are able to access it, allowing rapid discemination of news and protest groups to further their causes.",0.588291147,-1,0.8787151953543175,0.29042404835431757,1,False
+the use of public defenders should be mandatory,the use of public defenders should be mandatory because not everyone can afford to hire an attorney,1.0,1,0.7096040818694623,0.29039591813053767,1,True
+we should adopt atheism,"atheism removes the need to build and subsidy churches, pay priests, etc",0.478337125,1,0.768552971440563,0.29021584644056303,-1,False
+we should abolish the three-strikes laws,we should not abolish the three-strikes laws because sometime people near from their mistakes after they make enough of them,0.461557502,-1,0.7517001801301579,0.2901426781301579,-1,True
+we should legalize cannabis,vast sums of money are currently spent on policing the use of cannabis as an illegal drug which could be better sent elsewhere such as on healthcare or education,0.483650989,1,0.7736416187445547,0.28999062974455475,-1,False
+holocaust denial should be a criminal offence,holocaust denial should be a criminal offense since it's the only way to stop nazism.,0.584235842,1,0.8741521397104819,0.2899162977104819,1,True
+we should ban targeted killing,targeted killing is a useful way for the state to control the population,0.464672898,-1,0.754492571955237,0.289819673955237,-1,True
+we should abolish the olympic games,the olympics help foster friendship between nations.,1.0,-1,0.7101805822137666,0.28981941778623344,1,False
+we should ban targeted killing,"targeted killing should be banned, everyone is entitled of a due process",1.0,1,0.7104125964960815,0.28958740350391854,1,True
+social media brings more harm than good,"users acan keep in contact easily with distant friends and share information, such as photographs.",0.514717743,-1,0.8041749897266238,0.2894572467266239,1,False
+the use of public defenders should be mandatory,if everyone used a public defender that would level the playing field when using an attorney.,0.979591169,1,0.6904810888478901,0.2891100801521099,-1,False
+we should ban missionary work,missionary work should be banned because it?? not fair to push your beliefs on other people.,0.896221771,1,0.6074436555029342,0.2887781154970658,1,True
+we should ban targeted killing,targeted killing removes criminals from society,0.501975625,-1,0.7906053113968343,0.2886296863968343,1,False
+we should legalize cannabis,"cannabis is no worse than alcohol, which has been legal for years, it's a waste of money to enforce a pointless law.",1.0,1,0.7114196521961311,0.2885803478038689,1,True
+we should ban factory farming,we should not ban factory farming because it can help provide food in places it may not otherwise be available.,1.0,-1,0.7115486657696225,0.2884513342303775,-1,True
+we should ban factory farming,factory farming causes cruelty to animals,1.0,1,0.7116506945813021,0.28834930541869785,1,True
+we should ban private military companies,military companies provide valuable expertise to supplement the armed forces,1.0,-1,0.711720502668478,0.288279497331522,-1,True
+we should ban factory farming,we should not ban factory farming because it helps keep the cost of animal products low.,1.0,-1,0.7118144824606449,0.28818551753935506,-1,True
+we should legalize cannabis,cannabis is proven to have medical benefits,1.0,1,0.7119181025157985,0.28808189748420154,1,True
+we should abolish the olympic games,we shouldn't abolish the olympic games because is important for union of countries of world,0.872687467,-1,0.5846330532724431,0.2880544137275569,-1,True
+we should adopt libertarianism,there is no point attempting to adopt libertarianism because we've seen countless times that third parties don't work and never make a significant impact in an election.,0.498859328,-1,0.7868192097777047,0.2879598817777047,1,False
+we should legalize cannabis,taxes collected from the legal sale of marijuana could support important public programs,1.0,1,0.7121005212717761,0.28789947872822386,-1,False
+we should legalize cannabis,cannabis is healthier than other legal drugs like alcohol,0.94732605,1,0.6594686998977519,0.2878573501022481,1,True
+we should adopt libertarianism,"libertarianism shrinks the state therefore, in the long run results in more prosperous societies",1.0,1,0.7121787641422327,0.2878212358577673,1,True
+the use of public defenders should be mandatory,"if you have the financial means to employ the best defence, why shouldn't you be able to do that if it gives you a better chance of being found not guilty.",1.0,-1,0.712287330195065,0.28771266980493504,-1,True
+the use of public defenders should be mandatory,"people should be able to find a defender that they trust, not just be set up with one arbitrarily through the court.",1.0,-1,0.7126499569112668,0.28735004308873324,-1,True
+we should ban algorithmic trading,algorithmic trading produces erratic and unstable runs on stocks that disproportionately impact the vale of the market and should be banned.,0.587273224,1,0.8745514577503013,0.28727823375030126,1,True
+we should ban algorithmic trading,we should not ban algorithmic trading because if you can find a way to make money why should others be mad?,0.301783442,-1,0.5890125778700828,0.28722913587008275,-1,True
+we should abolish the three-strikes laws,it could lead to a very large prison population which can be very expensive for the state.,0.975259507,-1,0.6880581101458775,0.2872013968541225,1,False
+holocaust denial should be a criminal offence,it is often a sign of future racial crimes.,0.468791174,1,0.7557726625881316,0.2869814885881316,1,True
+we should legalize cannabis,we should legalize cannabis we should legalize cannabis,0.322651563,1,0.6095863589670155,0.28693479596701554,1,True
+we should ban factory farming,besides that farmers use forms and techniques for their crops that are then poorly paid by factories,0.380305109,1,0.6670854657624277,0.2867803567624277,-1,False
+we should prohibit women in combat,women should be accepted into the ranks of the soldiery just as men if they too have passed the necessary assessments as they too can fulfil an important role which compliments existing soldiers,0.522149636,-1,0.8086137060397532,0.28646407003975327,1,False
+we should ban targeted killing,we should not ban targeted killing simply to protect the innocents from the bad peoples that trying to kill them,0.492459868,-1,0.7788086799815077,0.2863488119815077,-1,True
+social media brings more harm than good,social media companies are not transparent about their data collection and usage.,1.0,1,0.713790738946564,0.286209261053436,1,True
+holocaust denial should be a criminal offence,the holocaust is a horrible event that never needs to be repeated. a way to hinder that is by punishing those that deny it went on. they won?? be telling lies if they??e in jail or in fear of being prosecuted.,0.903551894,1,0.6175945929503547,0.28595730104964534,-1,False
+we should ban private military companies,a military company ban would only be closing opportunities,0.344499592,-1,0.6303755022632217,0.2858759102632217,-1,True
+we should ban factory farming,factory farming is not humane for the animals and should be banned.,1.0,1,0.7144897712240517,0.28551022877594834,1,True
+we should ban missionary work,missionary work allows volunteers to do productive work in a foreign country,1.0,-1,0.7145883603087295,0.2854116396912705,-1,True
+we should legalize cannabis,the general use of cannabis will be abused and become a risk to the public,1.0,-1,0.7146600317514986,0.2853399682485014,1,False
+we should adopt atheism,we should adopt atheism because you can live your life freely without the worry of being judged by god,1.0,1,0.7147478629190013,0.2852521370809987,1,True
+we should ban missionary work,missionary work provides assistance where it is needed most.,1.0,-1,0.7148576381267604,0.2851423618732396,-1,True
+we should ban factory farming,factory farming is inhumane in the way it mistreats animals.,1.0,1,0.7150748183424872,0.2849251816575128,1,True
+we should ban factory farming,factory farming should be banned because meat quality goes down when animals aren?? living in optimal conditions and therefore people are having to eat inferior meat.,1.0,1,0.7152789431722704,0.28472105682772963,1,True
+holocaust denial should be a criminal offence,"holocaust denial is not only offensive but downright dangerous, as the saying goes those who don?? know history are doomed to repeat it",0.982692583,1,0.6980430690873588,0.28464951391264115,1,True
+we should ban factory farming,factory farming contributes to the economy by employing thousands of people,1.0,-1,0.7154193215829565,0.2845806784170435,1,False
+we should ban factory farming,we need factory farming to feed the population.,0.93736318,-1,0.652873746044448,0.28448943395555193,1,False
+the use of public defenders should be mandatory,"if everyone had to use a public defender, it would be fairer as their representation would not be dependent on their income.",1.0,1,0.7156128672875636,0.28438713271243643,-1,False
+the use of public defenders should be mandatory,"if someone can afford a good defender, they should not be stopped from doing so.",0.948468966,-1,0.6641557852103217,0.28431318078967827,-1,True
+holocaust denial should be a criminal offence,holocaust denial is disgusting but it?? still free speech,0.854164096,-1,0.5699491670821408,0.28421492891785916,-1,True
+we should legalize cannabis,cannabis is no different than alcohol and should be legalized with the same restrictions placed on alcohol,1.0,1,0.7158616258867112,0.2841383741132888,1,True
+we should ban private military companies,the country can't afford to fund the military/national army,0.342514751,-1,0.6266126558968669,0.28409790489686687,-1,True
+we should ban factory farming,animals are kept in cages and treated with cruelty,1.0,1,0.7159534142773896,0.28404658572261043,1,True
+we should ban factory farming,factory farming has allowed the prices of food to drop drastically.,1.0,-1,0.7161560255804547,0.28384397441954534,-1,True
+the use of public defenders should be mandatory,the use of public defenders should be mandatory is fundamental of peace in people,0.422788427,1,0.7065696060086188,0.2837811790086188,-1,False
+we should prohibit school prayer,school prayer violates the separation between church and state,1.0,1,0.7164758680581484,0.28352413194185155,1,True
+we should ban factory farming,this is an inhumane way to raise animals for consumption.,1.0,1,0.7164946094063115,0.2835053905936885,1,True
+we should abolish the three-strikes laws,people deserve to get another chance when they do something wrong,0.391490166,1,0.6748806649014492,0.2833904989014492,-1,False
+we should ban private military companies,there are fewer american casualties when using private military companies.,0.911814092,-1,0.6288167761658792,0.2829973158341208,-1,True
+we should prohibit school prayer,we should abolish the separation between church and state and put more prayer in schools. students would not be so harsh to others if they believed in something bigger than themselves.,0.511456467,-1,0.7943484757907873,0.28289200879078724,-1,True
+holocaust denial should be a criminal offence,"as more time passes, it becomes increasingly important to acknowledge the holocaust's ugly truth, lest we never repeat it.",0.542880076,1,0.825742762823649,0.282862686823649,1,True
+we should ban targeted killing,targeted killing is morally wrong and should be banned.,0.493168512,1,0.7758116687689434,0.28264315676894336,1,True
+we should abolish the olympic games,the olympic games brings people all over the world together in peace,1.0,-1,0.7175181069911041,0.2824818930088959,1,False
+we should abolish the three-strikes laws,the three-strikes law has resulted in overcrowded prisons,1.0,1,0.7177129567303813,0.28228704326961873,1,True
+we should ban private military companies,private military companies do a good service by providing security where needed,0.953644125,-1,0.6715532092999542,0.28209091570004574,-1,True
+we should ban targeted killing,"for me, i do not want terrorists to be around my neighborhood. i'm completely denied that decision",0.424166791,-1,0.7060157912592199,0.2818490002592199,-1,True
+we should ban algorithmic trading,we should take advantage of technology to streamline investing.,1.0,-1,0.7183215420871187,0.28167845791288126,1,False
+social media brings more harm than good,if used properly it can reunite old friends and family and bring much pleasure.,1.0,-1,0.7183655564918,0.2816344435082,1,False
+we should adopt atheism,atheism goes against billions of people's beliefs and will only cause an uproar,0.486119627,-1,0.7677440573853884,0.2816244303853884,-1,True
+we should ban factory farming,factory farming is necessary to feed the ever growing population.,1.0,-1,0.7184960701596446,0.28150392984035544,-1,True
+we should abolish the three-strikes laws,three strike laws can put young people away for life for 3 small crimes,1.0,1,0.7185785604392059,0.28142143956079413,-1,False
+we should abolish the olympic games,if countries are willing to pay then let them do it,0.304545345,-1,0.5859541137738096,0.28140876877380955,-1,True
+we should adopt libertarianism,libertarianism should not be adopted as it will give too much power to businesses and rich people to do whatever they want.,0.542632404,-1,0.8238007010672174,0.28116829706721735,-1,True
+we should ban private military companies,private military companies often are not held accountable for mistakes and operate outside of military jurisdiction.,1.0,1,0.7189107036054676,0.2810892963945324,-1,False
+we should prohibit school prayer,"prayer is a religious right and should be permitted anywhere, even in schools.",1.0,-1,0.719102097901583,0.28089790209841703,1,False
+we should ban factory farming,we should ban factory farming because it is cruel to the animals and because the quality of the products is sketchy at best.,1.0,1,0.7191032828788761,0.28089671712112385,1,True
+we should abolish the olympic games,young adults spend their entire lives training to compete in the games. they gain no other skills and all their time is devoted to the sport. they're then left with no training or skills for the real world.,0.594217443,1,0.8750648722128213,0.28084742921282124,1,True
+we should abolish the olympic games,"the olympics bring people together and form fun rivalries between countries, all vying for a top spot among the world's athletes",0.526740975,-1,0.8075400635115493,0.28079908851154933,-1,True
+we should ban private military companies,private miltary companies are open to abusing their privileges because they are not under the same direct scrutiny as the regular military.,1.0,1,0.7193789986259909,0.28062100137400914,-1,False
+we should prohibit school prayer,children should not be indoctrinated in false beliefs,1.0,1,0.7195226041811273,0.28047739581887265,-1,False
+we should prohibit school prayer,school prayer should be prohibited in schools because many students do not believe in prayer.,0.4418168,1,0.7222128594104168,0.2803960594104168,1,True
+we should legalize cannabis,"after somebody try cannabis and starting to use it regulary, they will start with stronger drugs, cocaine, meth,etc.",0.442125084,-1,0.7223975907409075,0.2802725067409075,-1,True
+we should ban targeted killing,targeted killing puts way too much power in the governments hands.,1.0,1,0.7200575146163193,0.2799424853836807,1,True
+we should ban factory farming,factory farming is an efficient solution to food supply problems.,1.0,-1,0.7200773867879317,0.27992261321206835,-1,True
+we should legalize cannabis,cannabis is a natural pain reliever for many painful ailments.,1.0,1,0.720156973170454,0.279843026829546,-1,False
+we should ban private military companies,private military companies are more efficient and better trained than the government run military.,1.0,-1,0.7202568914791558,0.27974310852084416,-1,True
+we should ban algorithmic trading,algorithmic trading will generate many jobs for programmers who design the new algorithmic machines.,1.0,-1,0.7204028859076204,0.27959711409237964,-1,True
+we should ban private military companies,we should not ban private military companies since these private companies can do things their own way and are not controlled by the government. they can fill in spots the government doesn't address.,1.0,-1,0.7205206065083094,0.2794793934916906,-1,True
+we should ban factory farming,we should ban factory farming for best ecomics in the countries,0.329714069,1,0.6091745173718752,0.2794604483718752,1,True
+we should prohibit school prayer,school prayer only happens in faith schools where the parents have chosen to send their children so consented to it,0.475019833,-1,0.7544717209560733,0.2794518879560733,-1,True
+we should adopt atheism,if people believe there is a god the state should not stop them from practising their faith,0.944622858,-1,0.6655255449390718,0.2790973130609282,-1,True
+we should adopt atheism,we shouldn't adopt atheism because is free religion,0.279539095,-1,0.5584494159345105,0.27891032093451046,-1,True
+we should legalize cannabis,the use of marijuana is immoral and should not be legalized.,0.363168402,-1,0.641968943819103,0.27880054181910296,-1,True
+we should legalize cannabis,cannabis has been proven as very effective for medical use,1.0,1,0.7212320204127013,0.2787679795872987,1,True
+we should ban factory farming,factory farming creates a cruel environment for animals,1.0,1,0.7213466221025273,0.2786533778974727,1,True
+we should ban missionary work,its annoying that people knock on people's doors when they arent interested,0.366681406,1,0.6452737173772454,0.2785923113772454,1,True
+we should abolish the three-strikes laws,"we should abolish the three-strikes laws because they were created to target african americans, and harm that community disproportionately.",0.560789027,1,0.8392272108326003,0.27843818383260033,1,True
+we should adopt atheism,the right to practice religion is a personal freedom that cannot be taken away as it is a source of comfort to many.,0.616566538,-1,0.89497350839985,0.27840697039984996,-1,True
+we should ban targeted killing,targeted killing is necessary to protect our safety,0.477421913,-1,0.7556861811821302,0.2782642681821302,-1,True
+we should ban private military companies,there's too many controversies surrounding companies using private military contractors. these are not professional people in the business. too many deaths are associated with these groups.,1.0,1,0.7217638688295359,0.2782361311704641,-1,False
+the use of public defenders should be mandatory,the mandatory use of public defenders would be a massive drain on the public purse.,1.0,-1,0.7217862608200556,0.2782137391799444,1,False
+we should ban algorithmic trading,"algorithmic trading is legal, and all traders have access to some sort of computer-aided tools.",0.516964794,-1,0.7951036483380312,0.2781388543380312,-1,True
+we should ban missionary work,missionary work plays on the ignorance of local people to exploit them,1.0,1,0.7219325799230084,0.2780674200769916,1,True
+we should legalize cannabis,as a result legalization marijuana black market can be replaced by regulated sales of a safer product,0.504374001,1,0.7823064490475489,0.2779324480475489,1,True
+we should ban private military companies,private military companies are needed to provide security when the military can not do the job,0.955440551,-1,0.6776185989586248,0.2778219520413753,-1,True
+we should ban missionary work,attempting to spread a belief through missionary disrespects another culture. it is wrong to teach others that their religious beliefs are not true and another is while there is no proof either is true.,1.0,1,0.7222688951632286,0.27773110483677144,-1,False
+we should prohibit women in combat,gender should not matter when it comes to combat. as long as proper physical and mental tests are in place that iss all that should matter for selection.,0.566787349,-1,0.8443792770308874,0.2775919280308874,-1,True
+we should ban factory farming,factory farming is very cruel to the animals,0.891750919,1,0.6142021542434404,0.27754876475655965,1,True
+we should ban private military companies,private military companies shouldn't be banned because they have good education benefits,0.377470248,-1,0.6549432870282887,0.27747303902828874,-1,True
+we should legalize cannabis,so many people could use cannabis for pain relief that to legalize it is the only sensible option.,1.0,1,0.7227657953295856,0.2772342046704144,-1,False
+we should adopt libertarianism,the government cannot be trusted to do much of anything; let's put most decisions of society into the hands of the real power: the people.,1.0,1,0.723016306406982,0.276983693593018,1,True
+social media brings more harm than good,it brings people together in ways we could not have dreamed of years ago. this is a positive thing.,1.0,-1,0.7230202830024318,0.2769797169975682,-1,True
+we should ban private military companies,private military companies can enhance the government's military while providing better wages for employees,0.974423521,-1,0.6975167432967087,0.2769067777032913,-1,True
+the use of public defenders should be mandatory,anyone being charged with a crime should have an independent person helping him or her. sometimes it helps having a second opinion.,0.522663665,1,0.7994155409434337,0.27675187594343365,-1,False
+we should adopt atheism,i think that we shouldn't adopt atheism because is free religion,0.682243233,-1,0.40563868605691183,0.27660454694308817,-1,True
+we should ban factory farming,we should ban factory farming because it lead to the abuse of animals,1.0,1,0.7234721331064572,0.2765278668935428,1,True
+we should ban private military companies,wealthy people and companies may need additional military protection and should be able to use it.,1.0,-1,0.723665979776294,0.276334020223706,-1,True
+we should abolish the olympic games,the olympic games are extremely expensive for the cities and countries that host them.,1.0,1,0.7237515597972926,0.27624844020270745,1,True
+the use of public defenders should be mandatory,if a person can pay for a better lawyer they should have the right to do so.,1.0,-1,0.7237666881275039,0.2762333118724961,-1,True
+we should ban missionary work,"it is too difficult to determine whether mission work is exploitive or sincere, so banning it outright would be an overcorrection.",1.0,-1,0.723845791076136,0.276154208923864,-1,True
+we should abolish the three-strikes laws,the three strike law establishes a sentence and those who commit crimes can make a choice if they want to abide by it or not,0.545030354,-1,0.8211227014163999,0.2760923474163999,-1,True
+we should abolish the olympic games,the olympic games provide world wide competition that young people would not otherwise be able to compete in.,0.556246947,-1,0.8323148282568111,0.27606788125681114,-1,True
+we should ban private military companies,we should ban private military companies because there is no way for governments to regulate and ensure the quality of private military companies,1.0,1,0.7239733650400472,0.27602663495995283,-1,False
+holocaust denial should be a criminal offence,people should be allowed to hold their own beliefs and criminalizing holocaust denial is not permitting people their own free will and thought.,0.618914206,-1,0.8949324467577182,0.2760182407577182,-1,True
+we should ban factory farming,factory farming is the leading cause on food borne related illnesses,1.0,1,0.7241111497141082,0.27588885028589183,1,True
+we should ban factory farming,factory farming is the most efficient way to feed our ever-growing population.,1.0,-1,0.7241999273456778,0.27580007265432216,-1,True
+we should abolish the olympic games,the olympic games consume too much time and money for unnecessary fanfare,1.0,1,0.7242098726147634,0.27579012738523656,1,True
+we should adopt atheism,"atheism would be good for our country, less conflicts",0.92388056,1,0.6481342854140103,0.27574627458598966,-1,False
+we should prohibit women in combat,a women's place in the military is not in combat but behind a desk or in a military hospital where it is a little safer.,0.441327833,1,0.716931723187296,0.27560389018729603,-1,False
+we should ban private military companies,they do not have to abide by the same ethical standards as a traditional military and should be banned.,1.0,1,0.7245671389542064,0.27543286104579356,1,True
+holocaust denial should be a criminal offence,there is no reason to ignore history and those who do are doing so based on hate,0.476866555,1,0.7522240839164428,0.2753575289164428,1,True
+we should abolish the three-strikes laws,the three strikes laws helps keep dangerous criminal elements from doing more harm in society,0.544913979,-1,0.8202302687916325,0.2753162897916325,1,False
+we should ban private military companies,private military companies should be banned they often act as mercenaries and cant be regulated,1.0,1,0.724718781570295,0.275281218429705,1,True
+we should abolish the olympic games,these activities do not allow the contestants to have a normal life.,0.467884645,1,0.7431047026282684,0.27522005762826846,1,True
+we should legalize cannabis,"we should not legalize cannabis because there will be more people will overuse, addicted to it",0.402297742,-1,0.677373255662788,0.27507551366278804,-1,True
+we should ban targeted killing,targeted killing is unfair to the target and should therefore be banned.,0.517756994,1,0.7927513866596054,0.27499439265960546,1,True
+we should ban missionary work,"just recently a missionary was killed while having the best intent. it is not always safe, nor welcome to try and push any religion on anyone or group of people. it is not only obnoxious, it can be serious.",1.0,1,0.725022891489318,0.274977108510682,-1,False
+we should ban missionary work,we should continue to support missionary work as they perform much good for those in lesser developed countries.,1.0,-1,0.7250661970127568,0.27493380298724324,-1,True
+holocaust denial should be a criminal offence,i suppose to deny the holocaust could be considered a type of hate crime which is already a criminal offence in alot of countries.it basically is very offensive to the millions of people who died.,0.577616702,1,0.852500378446351,0.2748836764463509,1,True
+we should adopt libertarianism,"if we just hold up our beliefs, we will find that libertarianism helps us defend our rights as citizens of this country.",0.534346639,1,0.8092069675864373,0.2748603285864373,-1,False
+we should ban private military companies,they don't have the same high standards as the national army,0.840386322,1,0.5655419608579979,0.27484436114200206,-1,False
+we should ban private military companies,private military companies have their bottom line as a priority rather than the safety of the country.,1.0,1,0.725491906077322,0.27450809392267805,-1,False
+we should adopt atheism,atheism will destroy the world by unleashing godless people running the government with no morals or ethics and should not be adopted.,0.581548062,-1,0.8558903833474819,0.27434232134748193,-1,True
+we should legalize cannabis,legalizing cannabis will get rid of a black market that fuels other crimes,1.0,1,0.725725285633231,0.274274714366769,1,True
+we should ban factory farming,factory farming provides low cost produce for those who would otherwise not be able to afford it,0.980425617,-1,0.7061663088455326,0.2742593081544674,-1,True
+we should ban private military companies,around the world there are many governments misusing military abilities so in the interests of global safety there should be private military companies.,0.451048125,-1,0.7252274460517778,0.2741793210517778,-1,True
+we should abolish the three-strikes laws,"at each recidivism we must increase the punishment, so we will avoid so many violent crimes",0.463532238,-1,0.737631631291408,0.274099393291408,1,False
+holocaust denial should be a criminal offence,"as horrible as the holocaust was, you cannot punish someone who denies it happened",1.0,-1,0.7262218912297922,0.2737781087702078,1,False
+we should legalize cannabis,cannabis can cause mental health issues,0.950802163,-1,0.6773097472986166,0.2734924157013834,1,False
+we should adopt atheism,we shouldn't adopt atheism for teach of jesuscrist,0.286327612,-1,0.5596383065175334,0.2733106945175334,-1,True
+we should prohibit school prayer,"we should prohibit school prayer because school is for learning and education, not religion.",0.979043922,1,0.706162898704479,0.272881023295521,1,True
+the use of public defenders should be mandatory,spending more on public defenders will only be politically plausible if everyone in the population knows they might get stuck with one.,0.445511759,1,0.7181947248209941,0.2726829658209941,1,True
+we should ban factory farming,it does provide the benefit of more affordable food,0.98167096,-1,0.7090072496913569,0.2726637103086431,-1,True
+we should abolish the three-strikes laws,the three-strikes laws helps stop crime,1.0,-1,0.7273416567354367,0.2726583432645633,1,False
+we should adopt atheism,if we all adopt atheism it means we accepted defeat and realized that we are not able to accept others no matter how different they are,0.450734978,-1,0.7233882203160307,0.27265324231603066,1,False
+holocaust denial should be a criminal offence,the criminalization of holocaust denial is a necessary evil to combat the evil of anti-semitism which is the primary motivation for holocaust denial.,0.630600433,1,0.9028473283348579,0.2722468953348579,-1,False
+we should adopt atheism,people should be free to follow any faith that they so choose.,0.515549925,-1,0.7877950719248108,0.27224514692481083,1,False
+we should ban algorithmic trading,it helps traders fulfill orders quicker than they normally might be able to without it,1.0,-1,0.7277842860876016,0.2722157139123984,-1,True
+we should ban private military companies,private military companies can easily be swayed by money; what's to stop them from acting as double agents?,1.0,1,0.7279855421803234,0.2720144578196766,-1,False
+we should ban missionary work,"missionary work does good in poorer, third-world countries that are often forgotten and neglected.",1.0,-1,0.7284362760589331,0.27156372394106687,1,False
+we should ban missionary work,it would not be right to ban missionary work because without missionaries people in deprived countries would be denied aid.,1.0,-1,0.7286153991017071,0.27138460089829286,-1,True
+we should prohibit school prayer,"in today's hectic fast-paced society, it is freeing to take time to sit quietly and pray. it should be encouraged in our schools.",1.0,-1,0.7286288962689356,0.27137110373106443,1,False
+we should legalize cannabis,legalizing cannabis is dangerous to society as users may overdose.,0.5547312,-1,0.8259725820037025,0.2712413820037025,1,False
+we should ban private military companies,private military companies provide valuable services in areas that are not served by enough military personnel,1.0,-1,0.729027250243621,0.27097274975637897,-1,True
+we should prohibit women in combat,"we should prohibit women in combat as they create a false sense that they need to be protected which male soldiers will try to fulfil, meaning they are left vulnerable",0.59279906,1,0.8636114172214706,0.27081235722147057,1,True
+we should ban private military companies,they go against international laws and lead to an increase in violence and civilian casualties.,1.0,1,0.7292604428364364,0.27073955716356357,-1,False
+we should ban factory farming,we should ban factory farming because it is genetically wrong to make a farm in a factory.,0.429733377,1,0.7004222706656859,0.2706888936656858,1,True
+we should prohibit school prayer,religion is a highly controversial topic that has no place in public education,1.0,1,0.7294181995101545,0.2705818004898455,1,True
+social media brings more harm than good,people believe that what they read is true,0.385690099,1,0.6562548510745755,0.2705647520745755,-1,False
+the use of public defenders should be mandatory,the public should not be required to fund the deference of criminals,0.398577075,-1,0.669004724915424,0.27042764991542395,-1,True
+we should ban private military companies,private military companies can keep the costs down for the national military freeing up some of their resources.,1.0,-1,0.7298420258374944,0.27015797416250564,-1,True
+we should ban targeted killing,we should ban targeted killing because innocent people can get aught in the crossfire.,1.0,1,0.7298597237947625,0.2701402762052375,1,True
+the use of public defenders should be mandatory,why should the rich have access to a better defense than the poor? if everyone used the same level of defender it would make the justice system much fairer.,0.979109246,1,0.7090276020666766,0.27008164393332346,-1,False
+we should adopt libertarianism,the government should not concern itself with business affairs.,0.326625411,-1,0.5965763234078815,0.2699509124078815,-1,True
+we should abolish the three-strikes laws,we should not abolish the three-strikes laws because the criminal will continue repeating the same crime again without fear and they may committing serious crime and by this law perhaps they may repent,0.532924135,-1,0.802837344874436,0.269913209874436,-1,True
+we should legalize cannabis,it does not cause any problems to health,0.34646354,1,0.6161750393514035,0.2697114993514035,1,True
+holocaust denial should be a criminal offence,people have free will and cannot be forced to think or believe something even if it is the truth.,0.518104722,-1,0.7878083350720395,0.2697036130720395,-1,True
+we should legalize cannabis,legalising cannabis would take the trade out of the hands of criminal gangs,0.963060941,1,0.6934967558308899,0.26956418516911007,1,True
+we should legalize cannabis,we should be able to use cannabis legally for people who need it for aiding their pain,0.937223763,1,0.6676866156440655,0.2695371473559345,-1,False
+we should ban targeted killing,targeted killing should be banned because no one should be specificaly tracked down and killed when they don't know it.,1.0,1,0.7304665213247175,0.26953347867528255,1,True
+we should abolish the olympic games,they foster a spirit of friendliness between nations who would otherwise be at war,0.419714779,-1,0.6892402261706863,0.26952544717068627,-1,True
+we should ban missionary work,no harm is coming to anyone when someone travels to another country to share their belief system with those of others cultures.,0.431773988,-1,0.7012763152074949,0.2695023272074949,-1,True
+we should ban factory farming,the conditions these animals live in are horrendous and are a breeding ground for diseases,1.0,1,0.7305226775906145,0.2694773224093855,1,True
+we should ban private military companies,the fact that private military companies exist simply breeds the thoughts of violence and escalates the chances of conflict. we should not allow these companies to exist.,1.0,1,0.7307321644198368,0.2692678355801632,-1,False
+we should ban private military companies,"private military companies are only interested in profit and making money, not the interests of the country which they are hired to protect.",1.0,1,0.730746613455506,0.26925338654449404,-1,False
+we should ban targeted killing,we should not be upsetting the balance of nature by targeting certain species,0.522278927,1,0.7914385954752114,0.26915966847521144,-1,False
+we should ban missionary work,"we should ban it, they take advantage of the needy.",0.889369167,1,0.6202290093148038,0.26914015768519617,1,True
+we should ban missionary work,those providing missionary work in war torn countries are putting undue burden on our government to protect them,1.0,1,0.7309147153167449,0.2690852846832551,-1,False
+we should legalize cannabis,cannabis shouldn?? be legalised because it?? harmful to humans.,0.725361859,-1,0.45630828276981844,0.2690535762301816,-1,True
+we should ban algorithmic trading,people buy stock to make money. if using a formula helps in buying stock increasing one's profits isn't that the whole point. a buyer of stock is trying to profit and this helps.,0.544419818,-1,0.8133201419639244,0.2689003239639244,-1,True
+social media brings more harm than good,everyday we hear of people being depressed,0.404489998,1,0.6733134441556985,0.2688234461556985,1,True
+we should abolish the three-strikes laws,three strike laws keep people who've killed a lot off the street.,0.490037884,-1,0.7586808138783707,0.26864292987837074,1,False
+we should ban missionary work,missonaries help bring education and literacy to underdeveloped areas,1.0,-1,0.7315679580522926,0.2684320419477074,1,False
+we should adopt atheism,people would get along better if they didn't have religious differences,0.960353663,1,0.6920587661042324,0.2682948968957676,-1,False
+we should abolish the olympic games,we should abolish the olympic games because it is inhumane to have people compete for profit or gain.,0.593617663,1,0.8619120685941912,0.26829440559419127,1,True
+we should ban factory farming,it creates a lot of produce and extra income for the industry,0.388779366,-1,0.6570640665933403,0.26828470059334025,1,False
+the use of public defenders should be mandatory,it is the right to the people to have legal representation and this would insure that all people have the right and the means.,1.0,1,0.7317605451149188,0.26823945488508116,1,True
+holocaust denial should be a criminal offence,anyone who denies that the holocaust happened is clearly insane or evil and should be punished.,0.557509502,1,0.8257218794463866,0.2682123774463866,1,True
+social media brings more harm than good,"bad cuts deeper than good. though social media has good aspects, it is the bad that cuts deeper than the good, therefore, causing more harm than good.",0.443683678,1,0.7118470337176592,0.2681633557176592,1,True
+we should ban factory farming,factory farming is inhumane to the animals because they??e forced into cramped living conditions that?? unnatural.,0.823180194,1,0.5550549982833624,0.2681251957166376,1,True
+we should ban private military companies,"private military companies have a role in the armed forces, especially at a time when budgets and personnel are being reduced",1.0,-1,0.7319826504206357,0.2680173495793643,-1,True
+holocaust denial should be a criminal offence,it is up to in individual to make their own mind up about whether an event happened based on the evidence they have available to them.,0.583298433,-1,0.8511012065248845,0.2678027735248846,1,False
+the use of public defenders should be mandatory,public defenders are important to upholding our individual rights,1.0,1,0.7322297868792595,0.26777021312074045,-1,False
+the use of public defenders should be mandatory,public defenders often do not receive enough funding to properly advocate for their clients and build the best defense possible.,0.530134413,-1,0.7976390232891838,0.2675046102891838,-1,True
+holocaust denial should be a criminal offence,it enables racist people to continue to target the jewish population.,0.602234116,1,0.8695477323160316,0.26731361631603157,1,True
+we should ban missionary work,missionary work is simply spreading god's message to those that have not heard it.,0.423038212,-1,0.6902533714005027,0.26721515940050267,-1,True
+the use of public defenders should be mandatory,"public defenders are more effective at getting plea deals, this is good because now you will have less people going to jail if everyone is using public defenders.",0.476537272,1,0.743510810812407,0.266973538812407,-1,False
+we should ban algorithmic trading,algorithmic trading works quicker than people are able to do it,0.386330361,-1,0.6532980194497549,0.26696765844975484,-1,True
+we should abolish the three-strikes laws,by keeping the three-stikes laws we can stop much of the repeat offending.,1.0,-1,0.7330647731838884,0.2669352268161116,1,False
+we should abolish the olympic games,athleths working hard to prepare for the olympic games and that should be respected and followed.,0.539459533,-1,0.8063497667279588,0.2668902337279587,1,False
+we should prohibit women in combat,if a woman can pass all the fitness tests she is as capable as a man,0.486591718,-1,0.7533745873631854,0.2667828693631854,-1,True
+we should prohibit school prayer,school prayer shouldnt be imposed on pupils it should be freedom of choice not indoctrinated into them,0.476926784,1,0.743427194020654,0.26650041002065405,-1,False
+we should ban factory farming,we should ban factory farming as its cruel and inhumane to animals,1.0,1,0.7335208427743203,0.2664791572256797,1,True
+we should ban private military companies,having private military companies keeps ideas flowing and more exploration into new technology and weapons so it should not be banned.,1.0,-1,0.7336397217605268,0.26636027823947317,-1,True
+we should ban targeted killing,we shouldn't ban targeted killing because it is a legitimate tool in foreign wars to take out the biggest enemies. we need to use all the tools available to us.,1.0,-1,0.733722569518847,0.26627743048115304,-1,True
+we should adopt atheism,we should not adopt atheism because people have a right to believe what ever they want,1.0,-1,0.7337980931944552,0.2662019068055448,-1,True
+we should abolish the olympic games,"they are a waste of money, building hype for a short event. money will be better spent elsewhere",0.980747026,1,0.7146229783092481,0.2661240476907518,-1,False
+we should ban algorithmic trading,it should be banned because it haven?? been proven scientifically,0.847620506,1,0.5817451142357184,0.26587539176428165,1,True
+we should ban factory farming,it helps provide cheaper products for people,0.888718939,-1,0.6229316106473484,0.2657873283526516,-1,True
+we should legalize cannabis,legalizing cannabis can be for health as long as the doses are given .. since the person can suffer mental damage,0.481558102,1,0.7472803198960735,0.2657222178960735,-1,False
+we should ban factory farming,factory farming increases the amount that can be raised for food thus feeding more people.,1.0,-1,0.7346013303477779,0.26539866965222214,1,False
+the use of public defenders should be mandatory,criminals should always have be defended in court by public defenders,0.444759451,1,0.7101120535158828,0.26535260251588283,1,True
+we should legalize cannabis,smoking cannabis at a young age can disrupt the natural growth of the brain,1.0,-1,0.7347869567364316,0.2652130432635684,1,False
+we should ban factory farming,it is cruel to the animals involved,0.875188176,1,0.6101889997173009,0.2649991762826991,1,True
+the use of public defenders should be mandatory,this would stop rich people being able to avoid criminal charges by buying the best lawyers.,0.941968422,1,0.6771656919713132,0.2648027300286868,1,True
+we should ban missionary work,missionary work forces religious views on people they may not want,1.0,1,0.735228412376937,0.26477158762306297,1,True
+holocaust denial should be a criminal offence,holocaust deniers are usually uneducated regarding the facts. it is better to teach them than to punish them.,0.56519443,-1,0.8298939358526126,0.2646995058526126,-1,True
+holocaust denial should be a criminal offence,any person who is part of holocaust denial obviously stereotypes jews group,0.450171114,1,0.714779017700661,0.264607903700661,-1,False
+we should adopt libertarianism,libertarianism is a form of selfishness which promotes the rights of the individual over the rights of everyone.,0.61406451,-1,0.8784162649796371,0.26435175497963714,1,False
+the use of public defenders should be mandatory,being able to choose your own attorney to help determine your fate is vitally important if you have the means to do so.,0.975602236,-1,0.7113402528835638,0.2642619831164361,-1,True
+the use of public defenders should be mandatory,"if a person is appointed a public defender, then yes, they should be required to make use of them as it is really in their best interest.",0.439740447,1,0.7039668441862678,0.2642263971862678,1,True
+we should prohibit women in combat,women don't belong in the battlefield since they're lighter and weaker than men,0.458678337,1,0.722868985570246,0.26419064857024604,-1,False
+we should ban private military companies,"private military companies are wrong and should be banned immediately. they are being paid to create war, not to help prevent it.",1.0,1,0.7358253777128168,0.26417462228718325,-1,False
+we should legalize cannabis,adults should be able to choose substances that they want to use.,1.0,1,0.7358348713804551,0.2641651286195449,1,True
+social media brings more harm than good,social media makes it too easy to bully other people.,1.0,1,0.7358480038086346,0.2641519961913654,1,True
+we should legalize cannabis,we shouldn't legalize cannabis because it has been proven to increase the likelihood of mental illnesses such as depression,1.0,-1,0.7358681956279916,0.26413180437200845,-1,True
+we should ban targeted killing,"targeted killing is inhumane, there should be no killing without aggression inflicted and then only in self protection. in addition targeted killing cannot guarantee that innocent civilians will be unharmed.",0.618747844,1,0.8828731214100665,0.2641252774100664,1,True
+we should prohibit women in combat,women are not as physically strong as men.,0.459819532,1,0.7238151414384214,0.26399560943842143,-1,False
+we should ban targeted killing,there is too much collateral damage when targeted killings are carried out so the practice should be banned,1.0,1,0.7361081941995891,0.26389180580041094,1,True
+we should ban algorithmic trading,i don't see the need to ban something that helps people make money automatically.,0.442825745,-1,0.706391051697359,0.26356530669735906,-1,True
+we should legalize cannabis,marijuana convictions disproportionately impact people of color and their ability to get any kind of aid,0.493945489,1,0.7574088455706849,0.26346335657068487,1,True
+we should ban factory farming,factory farming is needed to keep up with the food requirements of the world,0.947603784,-1,0.6842685367174997,0.26333524728250035,-1,True
+we should ban private military companies,the military should keep all their intelligence in house so i think private military companies should be banned.,0.868636683,1,0.6053072510520932,0.2633294319479068,-1,False
+we should abolish the olympic games,the olympic games must be abolished because there is a lot of corruption in the countries with the organizations,1.0,1,0.7367076005730795,0.2632923994269205,1,True
+we should adopt libertarianism,libertarianism isn?? representative of the majority of people?? political opinions,0.759646749,-1,0.49644238883226594,0.263204360167734,1,False
+we should adopt libertarianism,libertarianism would stop people from being able to progress and make the poor even poorer while the rich do fine.,0.581295974,-1,0.8444891811534007,0.26319320715340067,1,False
+the use of public defenders should be mandatory,many lawyers would go out of business if they couldn?? continue to help criminals.,0.801398376,-1,0.5383438438542765,0.2630545321457235,-1,True
+we should abolish the three-strikes laws,the crime rate dropped dramatically in california following introduction of the 3 strikes rule,1.0,-1,0.7369833941754097,0.2630166058245903,1,False
+we should adopt atheism,most people practice a religion so we shouldn?? adopt atheism for such a small group of people that don?? practice,0.726114985,-1,0.4631607903736332,0.2629541946263668,-1,True
+we should ban targeted killing,targeted killing is a necessary evil and the state should continue to ensure traitors are eradicated,0.548576824,-1,0.8114878558659322,0.26291103186593223,1,False
+we should ban algorithmic trading,algorithmic trading has increased trading which is good for the economy,0.978652004,-1,0.7158077332272811,0.2628442707727189,-1,True
+we should prohibit women in combat,anyone who is physically qualified should be able to be in combat,1.0,-1,0.7372567891771602,0.2627432108228398,1,False
+we should ban missionary work,to ban missionary work is to ban religion.,0.40018948,-1,0.6628282212079535,0.2626387412079535,-1,True
+we should ban targeted killing,i believe everyone has the right to a fair trial before any sentence should be carried out.,0.487679102,1,0.7503002967258882,0.2626211947258882,1,True
+we should ban private military companies,they provide the equipment that our armies require,0.321853612,-1,0.58447117789509,0.26261756589508994,-1,True
+we should ban algorithmic trading,algorithmic trading save traders time and should be encouraged not banned,1.0,-1,0.7374346197374728,0.2625653802625272,1,False
+holocaust denial should be a criminal offence,holocaust denial should not be a crime because many people are still traumatized by their memories and they want to suppress it.,0.618029671,-1,0.880553214632515,0.26252354363251507,-1,True
+the use of public defenders should be mandatory,"if a person wants to defend themselves without the use of a public defender, then they should have that right.",0.981724165,-1,0.7192486283973675,0.26247553660263256,-1,True
+social media brings more harm than good,"social media allows people to bully each other from anywhere, meaning students would have no escape for their school bullies, even at home.",0.567167416,1,0.8295509067710446,0.2623834907710446,-1,False
+we should ban missionary work,missionary work is very helpful to many,0.88591778,-1,0.6235754373846841,0.26234234261531586,-1,True
+we should ban algorithmic trading,algorithmic trading will help people trade more efficiently.,1.0,-1,0.7376934647312294,0.26230653526877057,1,False
+the use of public defenders should be mandatory,it allows the poor who don't have the funds to have legal advice to be able to attain legal advice,1.0,1,0.7377990135196075,0.2622009864803925,-1,False
+we should abolish the olympic games,it is an honour for the host city and provides global recognition,0.475766203,-1,0.7376550872609451,0.2618888842609451,-1,True
+holocaust denial should be a criminal offence,people have a right to say and believe whatever they want. you can't criminalize people's thoughts.,1.0,-1,0.7381848307336502,0.26181516926634985,-1,True
+we should ban private military companies,we should ban private military companies because your contract can be bought at any moment by another company leading to instability,0.936437738,1,0.6746530906520081,0.2617846473479919,-1,False
+we should abolish the olympic games,we shouldn't get rid of the olympics because it unites countries and gives everyone something in common.,1.0,-1,0.7384244228632242,0.2615755771367758,-1,True
+the use of public defenders should be mandatory,public defenders carry an extraordinarily high caseload and cannot give each case the proper attention.,1.0,-1,0.7385055987685266,0.2614944012314734,-1,True
+we should ban missionary work,missionary work is vital to spreading the word of the true god . true information must be given to people so they can know salvation from the falsehoods they have been taught or the lack of any teaching.,0.472307761,-1,0.7337919940370767,0.26148423303707674,1,False
+social media brings more harm than good,"social media has made bullying worse,",1.0,1,0.7386550394151173,0.26134496058488266,1,True
+we should prohibit women in combat,women should be able to fight if they are strong enough,1.0,-1,0.7387558573130242,0.2612441426869758,1,False
+we should prohibit school prayer,"at the same time,it may prohibit the rights of students to freely practice their religion.",0.498313801,-1,0.759530639683053,0.261216838683053,1,False
+the use of public defenders should be mandatory,"given that the state has near infinite resources to construct a case, defendants should not be constrained in their counsel, especially in a criminal case that could put a defendant in prison.",1.0,-1,0.7387925309279499,0.26120746907205006,-1,True
+we should abolish the olympic games,the olympic games has become less about the sports and more about commercialism,1.0,1,0.7388672031905636,0.26113279680943635,1,True
+we should ban factory farming,"factory farming conditions are usually horrible, with animals treated badly and disease running rampant",1.0,1,0.7388988688541542,0.26110113114584577,1,True
+we should ban private military companies,"it could be very detrimental for private companies to develop militias and gather weapons, you never know what they could do or are capable of doing.",0.978920947,1,0.7179323706400746,0.26098857635992534,-1,False
+holocaust denial should be a criminal offence,"holocaust denial is a is a form of free speech, and is thus protected by the first amendment.",0.660269866,-1,0.9212015948167027,0.2609317288167027,-1,True
+we should ban private military companies,private military companies put civilian lives in danger,0.892736234,1,0.631863795560685,0.26087243843931507,-1,False
+we should prohibit school prayer,"with our country moving in the direction it is, we should have more school prayer not less.",0.399889801,-1,0.6605579466992131,0.2606681456992131,1,False
+we should ban private military companies,private military companies could be a danger to our national security because their motives are financial in nature which means they could act in ways that are not in our country's best interest politcally.,1.0,1,0.739511569594617,0.26048843040538305,-1,False
+social media brings more harm than good,"it is now easy for people to bully others, as they do not have to be face-to-face with those they harass.",0.956392816,1,0.6964470757729921,0.2599457402270079,1,True
+the use of public defenders should be mandatory,the madatory use of public defenders would ensure that the money spent on the service would be increased from the bare minimum as currently occurs,1.0,1,0.7400716492336905,0.2599283507663095,1,True
+we should adopt libertarianism,libertarianism focuses on the individual and personal responsibility in making their own decisions,0.605093533,1,0.8648047934500293,0.25971126045002924,1,True
+we should prohibit school prayer,people should have the right to pray if they want to. no one is forced to pray in a school. free speech and expression allows for prayers in schools.,0.569589738,-1,0.8291506292604739,0.2595608912604739,-1,True
+we should ban algorithmic trading,so many proves and evidence that algorithmic trading is positive and helping economy to growth.,0.554813217,-1,0.8139823267238798,0.25916910972387985,1,False
+we should abolish the olympic games,"the olympic games are a giant waste of taxpayer money, and the buildings used in the games are not used by the host country after the games are over.",0.980135566,1,0.721006067206459,0.25912949879354097,1,True
+we should abolish the three-strikes laws,three strikes is too many and dangerous criminals will be on the loose again too quickly.,0.542282702,1,0.8013986755804285,0.2591159735804286,1,True
+we should abolish the olympic games,the olympic games are too expensive and bad for host cities and their residents.,1.0,1,0.741111072807494,0.258888927192506,1,True
+we should ban factory farming,factory farming kills the small farmer and rapes the land.,0.399958931,1,0.6586604365762136,0.25870150557621363,1,True
+we should ban factory farming,"this is a horrible way to treat animals. they should not be caged in tiny areas, unable to move. this is cruel.",0.981644529,1,0.7230191775627316,0.2586253514372684,-1,False
+we should adopt atheism,atheism is an excuse not to believe anything. we should not adopt it.,0.507953805,-1,0.7664368742202656,0.25848306922026565,-1,True
+we should ban factory farming,factory farming makes it possible for large amounts of food to be produced in short amounts of time.,0.957375203,-1,0.6990118685820725,0.25836333441792747,1,False
+social media brings more harm than good,social media connects family members from around the world.,1.0,-1,0.7417545166431254,0.2582454833568746,1,False
+we should ban private military companies,the pay is good and they use new technolodgy,0.802278579,-1,0.5440846134288351,0.2581939655711649,-1,True
+we should prohibit school prayer,"we have seperation of church and state for a reason. schools are a government entity that is not suppose to be involved with, or support, any particular religion and the two need to stay seperate.",0.980690943,1,0.7225441249382427,0.2581468180617573,-1,False
+we should prohibit school prayer,school prayer adds structure to a students life and enables them to display their beliefs.,0.571501593,-1,0.8295856819658645,0.25808408896586443,1,False
+we should prohibit school prayer,"this country has had the separation of church and state for so long, and allowing school prayer goes directly against that. prayer time has no place in school.",1.0,1,0.7420360124236443,0.25796398757635575,1,True
+we should ban factory farming,they grow almost all of the world's food,0.857863794,-1,0.599927729563,0.257936064437,1,False
+we should legalize cannabis,"growing marijuana harms the environment. marijuana cultivation results in deforestation, soil erosion, habitat destruction",0.574414189,-1,0.8321935144529876,0.25777932545298765,1,False
+social media brings more harm than good,social media brings family living far away closer together,1.0,-1,0.7422289944208426,0.25777100557915744,1,False
+we should adopt atheism,the human species needs to believe in some god so that atheism can hardly have a place in society,0.488015601,-1,0.74552543910736,0.25750983810736,-1,True
+we should ban private military companies,"private military companies are shady organizations that can easily be corrupted by money, especially from rogue nations.",1.0,1,0.742557149687922,0.25744285031207803,-1,False
+we should ban missionary work,missionary work is good cause and is out of mind to be banned or even considered to be banned. missionary work should be supported by every government in the world.,0.470662949,-1,0.7280328346623715,0.25736988566237146,1,False
+we should prohibit school prayer,the prohibition of school prayer does in fact amount to religious discrimination,1.0,-1,0.742655346147341,0.25734465385265903,1,False
+we should legalize cannabis,if you start legalizing drugs it could open up the floodgates for more legalization of dangerous drugs.,1.0,-1,0.7427152851059103,0.25728471489408966,-1,True
+we should ban algorithmic trading,algorithmic trading is slow to respond to real world happenings and could do some damage before it is fixed,1.0,1,0.7428567930389225,0.2571432069610775,1,True
+we should ban factory farming,factory farming is cruel to animals and produces low grade food so it should be banned.,1.0,1,0.7428841338901051,0.2571158661098949,1,True
+we should adopt libertarianism,"society functions best with rules and regulations, which are things you won't find in libertarianism",1.0,-1,0.7431071297720095,0.25689287022799046,-1,True
+social media brings more harm than good,social media brings people together from all over the world,1.0,-1,0.743128186297202,0.256871813702798,1,False
+we should ban targeted killing,target killings can help reduce civilian casualties.,0.54296692,-1,0.7998068968074717,0.2568399768074717,1,False
+holocaust denial should be a criminal offence,too many people use this as an excuse to be anti-jewish.,0.509141699,1,0.7657964952125349,0.25665479621253495,1,True
+we should adopt libertarianism,libertarianism will destroy an organization as it puts the rights of a individual before the good of the group,0.521135483,-1,0.7777683648189144,0.2566328818189144,1,False
+we should ban private military companies,private military companies are not regulated by government and their code of conduct might be violating human rights,1.0,1,0.7433776830800558,0.2566223169199442,-1,False
+we should abolish the three-strikes laws,three-strikes laws can lead to extreme punishments that don't fit the crime,1.0,1,0.7434985167216525,0.25650148327834754,1,True
+we should prohibit women in combat,women who want to enter combat should be able to do so and we can not prohibit it,1.0,-1,0.7435275757992014,0.25647242420079863,-1,True
+we should adopt libertarianism,libertarianism is a good break from the damaging political ways of the republicans and the democrats,0.503546734,1,0.7600047941321271,0.256458060132127,1,True
+we should legalize cannabis,too much drugs depend on the availability of cannabis. legalizing it will make development of these drugs quicker,0.565507417,1,0.8219443260009919,0.2564369090009919,1,True
+we should ban targeted killing,target killing is just another word for assassinations which are against international laws.,0.972792182,1,0.7163685560202382,0.25642362597976176,1,True
+we should ban missionary work,we should ban missionary work if people are torturing or hurting non believers as has been reported in the past,1.0,1,0.7435792120643658,0.25642078793563416,1,True
+the use of public defenders should be mandatory,public defenders ensure justice and that everybody has access to representation,1.0,1,0.7439566688515517,0.25604333114844835,1,True
+holocaust denial should be a criminal offence,why is anyone deciding what people can and cannot say?,0.360231581,-1,0.6162552637953961,0.25602368279539606,-1,True
+we should prohibit women in combat,"women have the exact same capabilities as men in every field of life, the military is absolutely no different.",0.549337424,-1,0.8053148017043681,0.2559773777043681,-1,True
+we should legalize cannabis,legalizing cannabis will lead us down a slippery slope into legalizing other harmful substances,1.0,-1,0.7440284349925719,0.2559715650074281,-1,True
+holocaust denial should be a criminal offence,"holocaust denial should be a criminal offence because it is an implicit endorsement of mass murder, like yelling 'kill all jews' would be illegal.",0.632886121,1,0.8887480495273109,0.25586192852731093,1,True
+we should ban missionary work,missionary work is very dangerous for the people involved and provides little benefit to those being ministered to,1.0,1,0.7443386375213725,0.2556613624786275,-1,False
+we should ban factory farming,factory farming shouldn?? be banned because many jobs would be lost in the farming industry when it?? already in decline.,0.718585846,-1,0.46295242296054173,0.25563342303945824,-1,True
+we should ban private military companies,private military companies aren?? trained to the same standards as each other or the government run military and therefore can create weaknesses in the force.,0.872094953,1,0.6165417247900317,0.2555532282099683,-1,False
+we should ban factory farming,we should not ban factory farming as long as the animals in these farms are well treated and cared for.,1.0,-1,0.7445583143213382,0.25544168567866177,-1,True
+we should ban factory farming,factory farming should be banned due to the excessive pollution they cause to the environment,1.0,1,0.7446970414373543,0.25530295856264573,1,True
+we should abolish the three-strikes laws,this law keeps communities safe from career criminals,1.0,-1,0.7450315305456614,0.2549684694543386,-1,True
+we should prohibit school prayer,the school prayer should not be prohibited as it gives a sense of belonging and togetherness within the school environment,1.0,-1,0.7453192107030892,0.25468078929691085,-1,True
+we should adopt atheism,"adopting one religion or another is a free choice of each human being, each person adapts the belief they want and knows",0.602648844,-1,0.8572532171140352,0.2546043731140353,1,False
+we should adopt libertarianism,without all the rules and regulations currently imposed by government the economy would grow much more strongly,1.0,1,0.7455039982330199,0.25449600176698006,1,True
+we should ban factory farming,we should ban factory farming because it leads to the abuse of animals,1.0,1,0.7456518525208363,0.2543481474791637,1,True
+we should abolish the three-strikes laws,"we should not abolish the three-strikes laws, because crime has fallen since they were introduced.",1.0,-1,0.745778894737286,0.254221105262714,-1,True
+the use of public defenders should be mandatory,"the use of public defenders is very important, but neither should it be mandatory",0.356725923,-1,0.6109433560609877,0.2542174330609877,-1,True
+we should adopt libertarianism,libertarianism would lead to suffering for many people. people rely on certain safety nets that would be done away with under libertarianism.,0.573945585,-1,0.8281468782514942,0.2542012932514942,-1,True
+we should prohibit school prayer,we should prohibit school prayer as not all students pursue religious beliefs,1.0,1,0.7458249429681746,0.2541750570318254,1,True
+we should prohibit school prayer,"school prayer brings children together in unity with god, it should be encouraged, not prohibited.",0.462382475,-1,0.7164923438301954,0.25410986883019543,-1,True
+social media brings more harm than good,social networks unite families and friends separated by great distances,1.0,-1,0.7459249194880518,0.25407508051194816,1,False
+we should ban private military companies,we should ban private military companies because not to do so is playing favoritism towards military people,0.419543016,1,0.6736143031542062,0.25407128715420624,-1,False
+we should ban private military companies,"in case of war or military conflict, the government could employ private military if there was a shortage",0.940503931,-1,0.6864578260588536,0.2540461049411463,-1,True
+we should prohibit school prayer,prayer should be allowed that allows students of all religions to participate in their own way,0.50810321,-1,0.7620932599085517,0.2539900499085517,-1,True
+we should abolish the olympic games,everyone looks forward to sports you only get to see once every 4 years,0.385549108,-1,0.6394726137560578,0.2539235057560578,-1,True
+we should abolish the three-strikes laws,this law keeps communities safe by not letting criminals run rampant with only slaps on the wrist,0.982431586,-1,0.7286523662134166,0.25377921978658347,-1,True
+holocaust denial should be a criminal offence,people should be able to believe in anything they want to,0.489082389,-1,0.7428497969776944,0.25376740797769437,-1,True
+we should prohibit school prayer,school prayer should not be banned as it provides an opportunity for students to feel that schools acknowledge the importance of church.,0.600410518,-1,0.8541756060999389,0.2537650880999389,-1,True
+we should ban private military companies,private military companies only exist to continue and profit from warfare. their operations are immoral and unlawful.,1.0,1,0.7463169187603893,0.2536830812396107,-1,False
+we should ban private military companies,"private military companies sell violence and intimidation to the highest bidder, which flies in the face of keeping democratic peace.",1.0,1,0.7464624130321925,0.2535375869678075,-1,False
+we should ban missionary work,missionary work can be very dangerous.,0.90550242,1,0.6520278636086492,0.25347455639135086,1,True
+we should prohibit school prayer,"school prayer should not be prohibited because the prohibition thereof is a direct violation of a person's right to freedom of religious expression. if it does not directly disturb others, let it be legal.",1.0,-1,0.7465339111509343,0.25346608884906574,-1,True
+we should ban targeted killing,targeted killing is often the only way to get to the enemy.,1.0,-1,0.7467161385628639,0.2532838614371361,1,False
+the use of public defenders should be mandatory,public defenders have too many cases to properly represent defendants,0.479894861,-1,0.733148078454016,0.25325321745401597,1,False
+the use of public defenders should be mandatory,this would insure that people have a legal representation regardless of the ability to hire a lawyer.,1.0,1,0.7467793163590688,0.2532206836409312,1,True
+we should legalize cannabis,we shouldn't legalize cannabis as it could introduce more drugs to the user,0.851629066,-1,0.5984299253587598,0.25319914064124016,-1,True
+we should ban targeted killing,targeted killing in inhumane and against the law,1.0,1,0.7468120248181109,0.25318797518188907,1,True
+we should prohibit women in combat,women shouldn?? be stopped from fighting based purely on their gender; instead tests should be carried out on everyone wanting to fight to ensure they meet the minimum standards.,1.0,-1,0.7469073806840454,0.2530926193159546,1,False
+we should ban private military companies,private military companies have an incentive to extend the conflict to keep their business going.,1.0,1,0.7473217578175981,0.25267824218240187,-1,False
+we should legalize cannabis,cannabis is no more harmful than alcohol and that is legal. people should be able to use recreational cannabis just as they do alcohol.,1.0,1,0.747422347544558,0.25257765245544195,1,True
+holocaust denial should be a criminal offence,everyone has a right to believe what they want.,0.491673164,-1,0.744197741665001,0.25252457766500097,-1,True
+we should ban private military companies,private military companies have no controls on them and can perform actions that are akin to murder.,1.0,1,0.7475179253424723,0.2524820746575277,-1,False
+we should abolish the olympic games,the olympic games create a tourism boom for the host city which injects a lot of cash which can be used to better locals so it shouldn?? be abolished.,0.955252031,-1,0.7029170346277788,0.25233499637222123,-1,True
+we should prohibit school prayer,we should not prohibit school prayer because the constitution gives us freedom of religion and prayer does not infringe on others.,1.0,-1,0.74766706534899,0.25233293465101003,-1,True
+we should abolish the three-strikes laws,"the three-strikes law is unfair, and in some cases, only 1 strike should be enough if the crime is bad enough.",1.0,1,0.7477887755793114,0.25221122442068855,1,True
+we should ban algorithmic trading,algorithmic trading will put many stock brokers and analysts out of business.,1.0,1,0.7479235708681722,0.2520764291318278,-1,False
+we should ban factory farming,factory farming allows us to increase our supply of food and it should not be banned.,1.0,-1,0.7483491052421117,0.25165089475788827,-1,True
+we should prohibit women in combat,women would should stay at home not go in into dangerous combat,0.422155319,1,0.6737593097347041,0.25160399073470413,-1,False
+we should ban targeted killing,we should not ban targeted killing because it could potentially prevent a terrorist attack,1.0,-1,0.7484517943411019,0.2515482056588981,-1,True
+we should ban private military companies,there is too little regulation for private military companies which can lead to mentally unstable ex-servicement joining their ranks.,0.977465062,1,0.7259611914856744,0.25150387051432566,-1,False
+we should ban missionary work,missionary work does not cause any harm as long as proper education is present on both sides.,1.0,-1,0.7485198852984235,0.2514801147015765,1,False
+we should ban private military companies,private military companies are dangerous. they are nothing more than mercenaries following the whims of their boss.,0.941578403,1,0.6901126610815527,0.2514657419184473,-1,False
+holocaust denial should be a criminal offence,"it should not be a criminal offence because in the us there is the right to free speech, as horrible as it may be. being ignorant and hateful in speech only is not a crime.",1.0,-1,0.748545231320656,0.251454768679344,-1,True
+we should ban private military companies,"we should ban private military companies because war for hire is a bad practice, a dangerous one.",0.931460906,1,0.6800173475687901,0.2514435584312099,-1,False
+social media brings more harm than good,social media is exploited by criminals trying to impersonate others,1.0,1,0.7485992851754973,0.25140071482450266,1,True
+we should ban factory farming,most factory farming suppying food to most of the people and should not be banned.,0.428245267,-1,0.6795772010784982,0.2513319340784982,-1,True
+we should prohibit school prayer,school prayer should be prohibited as it violates the separation of church and state,1.0,1,0.7487887622523625,0.25121123774763754,1,True
+we should prohibit women in combat,"we must prohibit women in combat, because women are meant to give birth to healthy children, not to to fight",0.436561601,1,0.6877216619560531,0.2511600609560531,-1,False
+we should prohibit women in combat,we should prohibit women in combat because it may cause more problem in term of their ability to keep up with the men,0.567301833,1,0.8184290693962586,0.25112723639625856,1,True
+we should ban targeted killing,targeted killing should not be banned as the government has the intelligence and knowledge to knowingly destroy a threat without destruction of many persons or communities.,0.651490384,-1,0.90250327903467,0.25101289503466995,-1,True
+we should adopt libertarianism,libertarianism is a more middle of the road thinking and it would bring many together even if compromising a bit for each side.,0.566937572,1,0.8178898444959237,0.2509522724959238,-1,False
+we should legalize cannabis,we should legalize cannabis because it is has many health benefits,0.976997413,1,0.7260495356149301,0.25094787738506985,1,True
+we should ban targeted killing,if someone has done enough crime to be on a targeted kill list they don?? deserve to be spared and therefore it shouldn?? be banned.,0.304545345,-1,0.5554701643772855,0.25092481937728545,-1,True
+we should ban factory farming,factory farming is incredibly cruel on sentient animals and should be banned immediately.,1.0,1,0.7491880936555072,0.2508119063444928,1,True
+we should ban missionary work,"outsiders should not come into other people's countries under the guise of missionary work, spreading their own ideals and beliefs.",1.0,1,0.7492618073492027,0.25073819265079733,-1,False
+we should ban factory farming,"factory farming produces low cost food, which is essential for poor families.",1.0,-1,0.7494562251824025,0.2505437748175975,-1,True
+we should ban factory farming,"factory farming is very cruel and highly inhumane for animals to be bred only to be slaughtered, it is also very unsanitary for both humans and the animals.",1.0,1,0.7495898573826905,0.25041014261730954,1,True
+holocaust denial should be a criminal offence,"though it can be frowned upon, everyone has a right to their own opinion.",1.0,-1,0.7496000989017538,0.25039990109824617,-1,True
+we should adopt libertarianism,government is needed. it provides the institutions that can better serve the public. this can be done through good taxation policy and good programs.,0.528872152,-1,0.7792579541903489,0.2503858021903489,-1,True
+we should ban algorithmic trading,this should not be banned as it makes trading easier and simpler.,0.973248861,-1,0.7229344250032238,0.25031443599677616,-1,True
+social media brings more harm than good,social media allows family to stay in touch.,1.0,-1,0.7496912548284024,0.2503087451715976,1,False
+social media brings more harm than good,social media makes us more connected,0.980941894,-1,0.7306919744069739,0.2502499195930261,1,False
+the use of public defenders should be mandatory,the use of public defenders should not be mandatory because a person should have the right to pay within their means any representative they wish.,1.0,-1,0.7498483179040709,0.2501516820959291,-1,True
+we should ban factory farming,factory farming tends to be inhumane for the animals. the conditions are absolutely horrible.,1.0,1,0.7498519439409659,0.2501480560590341,1,True
+we should adopt libertarianism,some individuals need the guidance of government to structure their lives,0.430278014,-1,0.6804084131458004,0.2501303991458004,-1,True
+we should prohibit school prayer,separation of church and state is a fundamental tenant of our country so school prayer should not be allowed.,0.976059258,1,0.7260649491356086,0.24999430886439145,-1,False
